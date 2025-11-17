@@ -1,0 +1,22 @@
+---
+created: 2025-11-17 09:51
+up:
+  - "[[Профвизит ИЛИМ Q42025]]"
+related:
+aliases:
+tags:
+  - type/note
+summary:
+---
+MX7000	Dell EMC	CX0YD53
+MX7000	Dell EMC	7Y0YD53
+MX7000	Dell EMC	JX0YD53
+MX 840c	Dell EMC	8Y0YD53
+MX 840c	Dell EMC	JDFC013
+MX 840c	Dell EMC	1Y0YD53
+MX 840c	Dell EMC	2Y0YD53
+MX 840c	Dell EMC	6X0YD53
+MX750c	Dell EMC	5WR7YJ3
+MX750c	Dell EMC	4WR7YJ3
+MX750C	Dell EMC	CY8BVZ3
+MX750C	Dell EMC	BY8BVZ3

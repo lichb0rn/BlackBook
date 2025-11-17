@@ -1,0 +1,18 @@
+---
+created: 2025-11-17 09:52
+up:
+  - "[[Профвизит ИЛИМ Q42025]]"
+related:
+aliases:
+tags:
+  - type/note
+summary:
+---
+VMAX40k-1	Dell EMC 	CK295700961
+VMAX40K-2	Dell EMC	CK295701238
+XtremIO-1-2	Dell EMC	CKM00155200492
+XtremIO-1-1	Dell EMC	CKM00162404160 
+XTREMIO-2-1	Dell EMC	CKM00175200050
+XTREMIO-2-2	Dell EMC	CKM00175200051
+PowerMax 2000 PRO-2	Dell EMC	CK297900484
+PowerMax 2000 PRO-1	Dell EMC	CK297900483
