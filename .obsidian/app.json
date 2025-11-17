@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "x/Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "readableLineLength": true
+}
