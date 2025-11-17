@@ -6,5 +6,5 @@
   "showUnsupportedFiles": true,
   "promptDelete": false,
   "showInlineTitle": true,
-  "readableLineLength": true
+  "readableLineLength": false
 }
