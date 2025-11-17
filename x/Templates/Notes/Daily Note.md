@@ -5,7 +5,4 @@ tags:
   - type/daily
 ---
 
-## Pictures
-<% tp.file.title %>
-
 ## Log
