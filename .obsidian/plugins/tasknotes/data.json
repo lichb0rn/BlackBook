@@ -393,7 +393,14 @@
   "useFrontmatterMarkdownLinks": false,
   "lastSeenVersion": "3.25.6",
   "icsSubscriptions": [],
-  "autoArchiveQueue": [],
+  "autoArchiveQueue": [
+    {
+      "taskPath": "2 Areas/Logs/01 Daily/2025/нояб./hello world.md",
+      "statusChangeTimestamp": 1763446821166,
+      "archiveAfterTimestamp": 1763447121166,
+      "statusValue": "archived"
+    }
+  ],
   "pomodoroState": {
     "isRunning": false,
     "timeRemaining": 1500
