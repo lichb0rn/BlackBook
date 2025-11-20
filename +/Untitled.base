@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.tags.contains("#type/project")
+    - file.tags.contains("#status/active")
+    - '!file.folder.startsWith("x")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - up
+      - summary
+    columnSize:
+      file.name: 367
+      note.up: 407
