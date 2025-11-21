@@ -7,7 +7,7 @@ aliases:
   - TASK1155498
 tags:
   - "#type/project"
-  - "#status/active"
+  - status/finished
 summary:
 ---
 ## Logs or Sprints
