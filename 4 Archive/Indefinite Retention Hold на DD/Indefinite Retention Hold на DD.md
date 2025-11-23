@@ -10,6 +10,10 @@ tags:
   - status/finished
 summary:
 ---
+## Итог
+IRH работает. Заказчик “удалял” данные из NetWorker командой nsrmm, данные удалялись из БД, но оставались на дисках.
+Вернуть обратно получилось с помощью scanner.
+
 ## Logs or Sprints
 ```dataview
 TASK

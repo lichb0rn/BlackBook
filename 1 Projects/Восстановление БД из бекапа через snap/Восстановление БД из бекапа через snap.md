@@ -10,6 +10,9 @@ tags:
   - "#status/active"
 summary: НСИС пытается сделать cross-machine restore PG из блочного бэкапа
 ---
+## Итог
+RedOS заказчика не поддерживается cvbf драйвером Commvault. Для работы Driverless режима нужно настраивать аппаратные снапшоты.
+
 ## Logs or Sprints
 ```dataview
 TASK
