@@ -393,14 +393,14 @@
   "enableBases": true,
   "maintainDueDateOffsetInRecurring": false,
   "useFrontmatterMarkdownLinks": false,
-  "lastSeenVersion": "4.0.3",
+  "lastSeenVersion": "4.0.5",
   "icsSubscriptions": [],
   "autoArchiveQueue": [],
   "pomodoroState": {
     "isRunning": false,
     "timeRemaining": 1500
   },
-  "lastPomodoroDate": "2025-11-19",
+  "lastPomodoroDate": "2025-11-25",
   "hideIdentifyingTagsInCards": false,
   "nlpTriggers": {
     "triggers": [
@@ -592,5 +592,6 @@
   "enabledGoogleCalendars": [],
   "googleCalendarSyncTokens": {},
   "enabledMicrosoftCalendars": [],
-  "microsoftCalendarSyncTokens": {}
+  "microsoftCalendarSyncTokens": {},
+  "showReleaseNotesOnUpdate": true
 }
