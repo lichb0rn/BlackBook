@@ -21,6 +21,7 @@ summary:
 825TQC-R802LPB	SuperMicro	C8250FK24P10111
 825TQC-R802LPB	SuperMicro	C8250FK24P10112
 
+[https://files.jet.su/d/kgjed46z](https://files.jet.su/d/kgjed46z)
 
 Нет доступов:
 - Админы ЦО:
