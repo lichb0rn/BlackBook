@@ -33,3 +33,6 @@ Each database dump will use one stream. If you have 4 databases to back up and t
 ##  Configuring Streams for PostgreSQL Backups
 For FSBased backup set, the number of streams for data backup is set to one by default. However, you can change the number of streams based on the streams configured in the subclient's storage policy.
 https://documentation.commvault.com/2023e/commcell-console/configuring_streams_for_postgresql_backups.html
+
+# General
+**Tune Commvault Streams and Transfer Size**: For large databases, increasing the number of data streams and the maximum transfer size (e.g., to 4 MB) in the subclient properties can improve read/write speeds, though this requires more memory per stream.
