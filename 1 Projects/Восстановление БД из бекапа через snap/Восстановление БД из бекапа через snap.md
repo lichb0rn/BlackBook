@@ -13,6 +13,13 @@ summary: НСИС пытается сделать cross-machine restore PG из 
 ## Итог
 RedOS заказчика не поддерживается cvbf драйвером Commvault. Для работы Driverless режима нужно настраивать аппаратные снапшоты.
 
+/usr/lib/postgresql/15/bin/pg_ctl -D /data/pgdata -l logfile start
+waiting for server to start.... done
+server started
+postgres@astra-pg-2:~$ 
+
+
+
 ## Logs or Sprints
 ```dataview
 TASK
