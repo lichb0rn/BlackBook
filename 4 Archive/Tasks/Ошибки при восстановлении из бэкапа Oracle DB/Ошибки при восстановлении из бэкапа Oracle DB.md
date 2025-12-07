@@ -7,7 +7,7 @@ aliases:
   - TASK1107203
 tags:
   - "#type/project"
-  - "#status/active"
+  - status/finished
 summary: Наблюдаются ошибки восстановления БД Oracle
 ---
 ## Logs or Sprints
