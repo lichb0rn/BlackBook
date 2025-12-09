@@ -30,6 +30,7 @@
     "Priority": "multitext",
     "kind": "multitext",
     "Due": "datetime",
-    "status": "multitext"
+    "status": "multitext",
+    "related": "multitext"
   }
 }
