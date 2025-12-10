@@ -9,7 +9,9 @@ tags:
   - "#status/active"
 summary:
 ---
-
+Сломанный диск
+005052064PWR
+K4H2J2JB
 
 ## Logs or Sprints
 ```dataview
