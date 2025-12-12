@@ -13,6 +13,12 @@ summary:
 005052064PWR
 K4H2J2JB
 
+Новый
+Major Express 1981632191
+
+005050148
+300134566538
+
 ## Logs or Sprints
 ```dataview
 TASK
