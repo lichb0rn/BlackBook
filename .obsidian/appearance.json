@@ -1,4 +1,6 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": ""
+  "accentColor": "",
+  "textFontFamily": "Source Code Pro",
+  "interfaceFontFamily": "Source Code Pro,SF Pro"
 }
