@@ -49,7 +49,11 @@
     "selectMirror": true,
     "weekNumbers": true,
     "showTodayHighlight": true,
-    "eventMinHeight": 15
+    "eventMinHeight": 15,
+    "slotEventOverlap": true,
+    "eventMaxStack": null,
+    "dayMaxEvents": true,
+    "dayMaxEventRows": false
   },
   "pomodoroWorkDuration": 25,
   "pomodoroShortBreakDuration": 5,
@@ -393,14 +397,14 @@
   "enableBases": true,
   "maintainDueDateOffsetInRecurring": false,
   "useFrontmatterMarkdownLinks": false,
-  "lastSeenVersion": "4.0.5",
+  "lastSeenVersion": "4.1.3",
   "icsSubscriptions": [],
   "autoArchiveQueue": [],
   "pomodoroState": {
     "isRunning": false,
     "timeRemaining": 1500
   },
-  "lastPomodoroDate": "2025-11-25",
+  "lastPomodoroDate": "2025-12-13",
   "hideIdentifyingTagsInCards": false,
   "nlpTriggers": {
     "triggers": [
@@ -593,5 +597,6 @@
   "googleCalendarSyncTokens": {},
   "enabledMicrosoftCalendars": [],
   "microsoftCalendarSyncTokens": {},
-  "showReleaseNotesOnUpdate": true
+  "showReleaseNotesOnUpdate": true,
+  "enableModalSplitLayout": true
 }

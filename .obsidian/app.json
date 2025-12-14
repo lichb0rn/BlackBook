@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "x/Attachments",
   "newFileLocation": "folder",
-  "newFileFolderPath": "+",
+  "newFileFolderPath": "00_Inbox",
   "showUnsupportedFiles": true,
   "promptDelete": false,
   "showInlineTitle": true,

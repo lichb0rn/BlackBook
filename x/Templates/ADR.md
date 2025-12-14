@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#adr/proposed"
+  - type/adr
 created:
 project:
 ---

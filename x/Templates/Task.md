@@ -1,11 +1,10 @@
 ---
-type: incident
 task:
 customer:
 system:
 tags:
-created:
-  "{ date }":
+  - type/incident
+created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ---
 
 # INC-54821 — Unity LUN Offline

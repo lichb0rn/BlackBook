@@ -5,9 +5,7 @@ up:
 related:
 aliases:
 tags:
-  - "#type/project"
-  - "#status/active"
-summary:
+  - type/incident
 ---
 Сломанный диск
 005052064PWR

@@ -6,9 +6,7 @@ related: "[[Commvault]]"
 aliases:
   - TASK1142749
 tags:
-  - "#type/project"
-  - "#status/active"
-summary: НСИС пытается сделать cross-machine restore PG из блочного бэкапа
+  - type/incident
 ---
 ## Итог
 RedOS заказчика не поддерживается cvbf драйвером Commvault. Для работы Driverless режима нужно настраивать аппаратные снапшоты.
@@ -37,7 +35,8 @@ insmod: ERROR: could not insert module cvbf-6.1.90-1-generic.ko: Unknown symbol 
 [ 1587.298192] cvbf: Unknown symbol complete_and_exit (err -2)
 ```
 
-
+## Evidence
+[[TASK1142749 Результат тестового прогона FSBased бэкапа]]
 
 
 ## Logs or Sprints

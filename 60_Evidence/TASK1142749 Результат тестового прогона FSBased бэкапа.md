@@ -1,12 +1,10 @@
 ---
 created: 2025-12-09 09:51
 up:
-  - "[[Восстановление БД из бекапа через snap]]"
+  - "[[TASK1142749 Восстановление БД из бекапа через snap]]"
 related: "[[Commvault]]"
-participants:
 tags:
-  - "#type/meeting"
-summary:
+  - type/evidence
 ---
 - Настроили FSBased бэкап
 - Включили компрессию и генерацию DDB чанков на клиенте

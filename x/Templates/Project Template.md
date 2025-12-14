@@ -1,78 +1,49 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 up:
 related:
 aliases:
 tags:
   - "#type/project"
   - "#status/active"
-summary:
+created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ---
-## Logs or Sprints
-```dataview
-TASK
-WHERE icontains(text, this.file.name)
-AND icontains(text, "#log/sprint")
-GROUP BY file.name as filename
-SORT filename DESC
-```
 
-## Sub Projects
-```dataview
-TABLE WITHOUT ID
-	file.link as "Sub Project",
-	created,
-	summary,
-	tags
-FROM !"x/Templates"
-WHERE icontains(up, this.file.link)
-AND icontains(tags, "type/project")
-SORT filename DESC
-```
+# <Project Name>
 
-## Meetings
-```dataview
-TABLE WITHOUT ID
-	file.link as sessions,
-	created,
-	participants,
-	summary
-FROM !"x/Templates"
-WHERE icontains(up, this.file.link)
-AND icontains(tags, "type/meeting")
-SORT filename DESC
-```
+## 1. Purpose
+- Why does this project exist?
+- What problem does it solve?
 
-## Related Notes
-```dataview
-TABLE WITHOUT ID
-	file.link as session,
-	created,
-	summary
-FROM !"x/Templates"
-WHERE icontains(up, this.file.link)
-AND !icontains(tags, "type/meeting")
-OR icontains(related, this.file.link)
-SORT filename DESC
-```
 
-## Tasks and Questions
+## 2. High-Level Architecture
+- Components
+- External dependencies
+- Data flow
 
-### Open
-```dataview
-TASK
-WHERE icontains(text, this.file.name)
-AND (icontains(text, "#task") OR icontains(text, "question"))
-AND !completed
-GROUP BY file.name as filename
-SORT filename DESC
-```
-### Closed
-```dataview
-TASK
-WHERE icontains(text, this.file.name)
-AND (icontains(text, "#task") OR icontains(text, "question"))
-AND completed
-GROUP BY file.name as filename
-SORT filename DESC
-```
+(Optional diagram link)
+
+
+## 3. Key Decisions
+- Why language/framework was chosen
+- Tradeoffs made
+- Constraints
+
+Link to decision notes if large.
+
+
+## 4. Current State
+- What works
+- What is incomplete
+- Known limitations
+
+
+## 5. Next Steps
+Short, concrete, human-readable:
+- Implement X
+- Validate Y
+- Decide Z
+
+(No long task lists.)
+
+
+## 6. Related

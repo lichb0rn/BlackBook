@@ -1,9 +1,9 @@
 ---
-type: reference
 domain:
 vendor:
 product:
 tags:
+  - type/note
 ---
 ## Summary
 
