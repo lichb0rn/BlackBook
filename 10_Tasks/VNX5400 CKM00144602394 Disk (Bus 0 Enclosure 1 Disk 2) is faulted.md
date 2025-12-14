@@ -6,6 +6,7 @@ related:
 aliases:
 tags:
   - type/incident
+summary: Ждём доставку диска
 ---
 Сломанный диск
 005052064PWR

@@ -6,12 +6,13 @@ views:
         - file.folder == "10_Tasks"
     order:
       - file.name
+      - summary
       - created
-      - file.mtime
     sort:
       - property: file.mtime
         direction: DESC
       - property: file.name
         direction: ASC
     columnSize:
-      file.name: 783
+      file.name: 657
+      note.summary: 312

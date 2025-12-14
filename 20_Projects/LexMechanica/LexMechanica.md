@@ -8,7 +8,7 @@ aliases:
 tags:
   - "#type/project"
   - "#status/active"
-summary: Проект по анализу логов
+summary: Исправить баг парсинга
 ---
 ## Logs or Sprints
 ```dataview

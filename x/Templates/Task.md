@@ -5,6 +5,7 @@ system:
 tags:
   - type/incident
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+summary:
 ---
 
 # INC-54821 — Unity LUN Offline

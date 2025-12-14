@@ -6,6 +6,7 @@ tags:
   - "#type/project"
   - "#status/active"
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+summary:
 ---
 
 # <Project Name>
