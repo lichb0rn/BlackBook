@@ -1,8 +1,16 @@
 ---
-date: <% moment(tp.file.title, "YYYY-MM-DD").format("YYYY-MM-DD") %>
-aliases:
-tags:
-  - type/daily
+type: log
+date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ---
+# {{date}}
 
-## Log
+## Incidents
+
+
+## Project Work
+
+
+## Notes
+
+
+## Open Threads

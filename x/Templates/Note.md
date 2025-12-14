@@ -1,9 +1,12 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-up:
-related:
-aliases:
+type: reference
+domain:
+vendor:
+product:
 tags:
-  - type/note
-summary:
 ---
+## Summary
+
+
+
+## References

@@ -31,6 +31,7 @@
     "kind": "multitext",
     "Due": "datetime",
     "status": "multitext",
-    "related": "multitext"
+    "related": "multitext",
+    "date": "date"
   }
 }
