@@ -3,8 +3,8 @@
   "weekStart": "monday",
   "wordsPerDot": 250,
   "showWeeklyNote": true,
-  "weeklyNoteFormat": "",
+  "weeklyNoteFormat": "YYYY/MMM/gggg-[W]ww",
   "weeklyNoteTemplate": "",
-  "weeklyNoteFolder": "",
+  "weeklyNoteFolder": "50_Logs/02 Weekly",
   "localeOverride": "system-default"
 }
