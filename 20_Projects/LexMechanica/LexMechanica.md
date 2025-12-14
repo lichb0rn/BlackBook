@@ -10,6 +10,11 @@ tags:
   - "#status/active"
 summary: Исправить баг парсинга
 ---
+## Notes
+- Можно использовать `http.ServeFile()` для раздачи файлов
+>[!warning] 
+>http.ServeFile() does not automatically sanitize the file path. If you’re constructing a file path from untrusted user input, to avoid directory traversal attacks you must sanitize the input with filepath.Clean() before using it.
+
 ## Logs or Sprints
 ```dataview
 TASK
