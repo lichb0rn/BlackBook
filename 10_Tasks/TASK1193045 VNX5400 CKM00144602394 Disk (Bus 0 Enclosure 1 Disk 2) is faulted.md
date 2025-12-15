@@ -4,6 +4,7 @@ up:
   - "[[ИЛИМ]]"
 related:
 aliases:
+  - TASK1193045
 tags:
   - type/incident
 summary: Ждём доставку диска
