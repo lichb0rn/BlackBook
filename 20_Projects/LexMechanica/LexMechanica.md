@@ -15,6 +15,9 @@ summary: Исправить баг парсинга
 >[!warning] 
 >http.ServeFile() does not automatically sanitize the file path. If you’re constructing a file path from untrusted user input, to avoid directory traversal attacks you must sanitize the input with filepath.Clean() before using it.
 
+## Bugs
+- [ ] gw проверяет обе ссылки, возвращает 500, если одна из них пустая
+
 ## Logs or Sprints
 ```dataview
 TASK
