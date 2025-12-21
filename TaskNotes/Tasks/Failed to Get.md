@@ -1,12 +1,13 @@
 ---
-status: to-do
+status: done
 priority: normal
 dateCreated: 2025-12-20T07:14:02.196+03:00
-dateModified: 2025-12-20T07:15:01.511+03:00
+dateModified: 2025-12-21T14:36:18.047+03:00
 tags:
   - task
 projects:
   - "[[LexMechanica]]"
+completedDate: 2025-12-21
 ---
 ```sh
 time=2025-12-19T11:47:16.259Z level=DEBUG msg="Processing attachments" record_id=00c2a8b7-de37-42c0-a8d4-8fa59a4212bc task_number=TASK0913767
