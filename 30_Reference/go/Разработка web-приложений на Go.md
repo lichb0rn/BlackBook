@@ -1,9 +1,9 @@
 ---
 created: 2025-12-14 14:10
 up:
-  - "[[Golang]]"
-related:
   - "[[Web Development]]"
+related:
+  - "[[Golang]]"
 aliases:
   - Go web development
 tags:

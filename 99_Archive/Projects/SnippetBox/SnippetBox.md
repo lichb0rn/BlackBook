@@ -2,11 +2,10 @@
 up:
   - "[[Golang]]"
 related:
-  - "[[Web Development]]"
 aliases:
 tags:
   - "#type/project"
-  - "#status/active"
+  - status/finished
 created: 2025-12-15 09:48
 summary:
 github: https://github.com/lichb0rn/snippetbox
