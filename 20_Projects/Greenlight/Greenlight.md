@@ -8,7 +8,7 @@ tags:
   - "#type/project"
   - "#status/active"
 created: 2025-12-21
-summary:
+summary: Обучающий проект по разработке API на Go
 github: https://github.com/lichb0rn/greenlight
 ---
 
