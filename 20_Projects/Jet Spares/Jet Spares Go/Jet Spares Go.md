@@ -1,18 +1,16 @@
 ---
-up: 
+up:
 related: "[[Jet Spares]]"
 created: 2025-03-30
 tags:
-  - "#projects/paused"
+  - type/project
+  - status/active
 ---
 ## Tasks
-- [ ] Вернуть ошибку Conflict, если уже есть такая запись в БД
+
 
 ## Notes & Progress  
-[[Интеграция Swagger с Air]]
-[[gRPC Microservice Structure in GO (DDD and Hexagonal Architecture)|Пример обработки ошибок]]
-[[ChatGPT Mongo Document Request]]
-[[Go DDD Template]]
+[[2025-12-27 Расчёт в горутинах]]
 
 ## Links & References  
 https://pkritiotis.io/clean-architecture-in-golang/
