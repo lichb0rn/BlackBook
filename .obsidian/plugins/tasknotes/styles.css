@@ -13254,6 +13254,18 @@ body:not(.is-mobile) .modal.mod-tasknotes .modal-button-container .mod-cta {
     z-index: 1;
 }
 
+/* Timegrid (week/day view) today column - use subtle accent instead of FullCalendar default yellow */
+/* Must match FullCalendar's specificity: .fc .fc-timegrid-col.fc-day-today */
+.advanced-calendar-view .fc .fc-timegrid-col.fc-day-today {
+    background-color: color-mix(in srgb, var(--interactive-accent) 8%, var(--background-primary)) !important;
+}
+
+/* Override FullCalendar's today background CSS variable for consistent theming */
+/* Scoped to .fc inside our view to ensure the variable is properly inherited */
+.advanced-calendar-view .fc {
+    --fc-today-bg-color: color-mix(in srgb, var(--interactive-accent) 8%, var(--background-primary));
+}
+
 /* Header cells */
 .advanced-calendar-view .fc-col-header-cell {
     background: var(--background-primary) !important;
@@ -13478,7 +13490,7 @@ body:not(.is-mobile) .modal.mod-tasknotes .modal-button-container .mod-cta {
     display: none;
 }
 
-.hide-today-highlight .fc-timegrid-col.fc-day-today {
+.hide-today-highlight .fc .fc-timegrid-col.fc-day-today {
     background: inherit !important;
     border: none !important;
 }
@@ -14085,6 +14097,12 @@ body:not(.is-mobile) .modal.mod-tasknotes .modal-button-container .mod-cta {
     box-shadow: var(--tn-shadow-medium);
 }
 
+@media (pointer: coarse) {
+    .tasknotes-plugin .kanban-view__column-header--dragging {
+        pointer-events: none;
+    }
+}
+
 /* Drag Handle */
 .tasknotes-plugin .kanban-view__drag-handle {
     color: var(--tn-text-muted);
@@ -14110,6 +14128,18 @@ body:not(.is-mobile) .modal.mod-tasknotes .modal-button-container .mod-cta {
     color: var(--tn-text-normal);
     line-height: 1.2;
     margin: 0;
+}
+
+.tasknotes-plugin .kanban-view__column-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.tasknotes-plugin .kanban-view__column-icon svg {
+    width: 12px;
+    height: 12px;
 }
 
 .tasknotes-plugin .kanban-view__column-count {
@@ -14265,18 +14295,63 @@ body:not(.is-mobile) .modal.mod-tasknotes .modal-button-container .mod-cta {
         padding: var(--tn-spacing-xs);
         gap: var(--tn-spacing-xs);
     }
-    
+
     .tasknotes-plugin .kanban-view__column-header {
         padding: var(--tn-spacing-xs) var(--tn-spacing-sm);
     }
-    
+
     .tasknotes-plugin .kanban-view__column-body {
         padding: var(--tn-spacing-xs);
     }
-    
+
     .tasknotes-plugin .kanban-view__new-task-button {
         font-size: var(--tn-font-size-xs);
         padding: 0 var(--tn-spacing-md);
+    }
+}
+
+/* Touch drag support */
+.tasknotes-plugin .kanban-view__card-wrapper[draggable="true"],
+.tasknotes-plugin .kanban-view__column-header[draggable="true"],
+.tasknotes-plugin .kanban-view__column-header-cell[draggable="true"] {
+    touch-action: manipulation;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.tasknotes-plugin .kanban-view__touch-ghost {
+    border-radius: var(--tn-radius-md);
+    background: var(--tn-bg-primary);
+    border: 2px solid var(--tn-interactive-accent);
+}
+
+.tasknotes-plugin .kanban-view__card--dragging {
+    opacity: 0.4;
+    transform: scale(0.95);
+}
+
+@media (pointer: coarse) {
+    .tasknotes-plugin .kanban-view__card--dragging {
+        pointer-events: none;
+    }
+}
+
+@media (pointer: coarse) {
+    .tasknotes-plugin .kanban-view__column--dragover,
+    .tasknotes-plugin .kanban-view__swimlane-column--dragover {
+        transform: scale(1.02);
+        border-color: var(--tn-interactive-accent);
+        border-width: 2px;
+        transition: transform 0.15s ease, border-color 0.15s ease;
+    }
+
+    .tasknotes-plugin .kanban-view__column-header--dragover,
+    .tasknotes-plugin .kanban-view__column-header-cell--dragover {
+        transform: scale(1.02);
+        border-color: var(--tn-interactive-accent);
+        background: var(--tn-bg-secondary);
+        transition: transform 0.15s ease, border-color 0.15s ease;
     }
 }
 
@@ -15228,15 +15303,18 @@ body:not(.is-mobile) .modal.mod-tasknotes .modal-button-container .mod-cta {
     width: 28px;
     height: 28px;
     border-radius: 50%;
-    background: transparent;
+    background: var(--background-secondary);
     color: var(--tn-text-normal);
-    border: none;
+    border: 1px solid var(--background-modifier-border);
     box-shadow: none;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease;
 }
 
 .tasknotes-plugin .pomodoro-view__time-adjust-button:hover {
     background: var(--tn-interactive-hover);
-    border: none;
+    border-color: var(--tn-interactive-accent);
     box-shadow: none;
 }
 
@@ -19116,6 +19194,9 @@ select.tasknotes-settings__card-input {
     font-weight: var(--tn-font-weight-medium);
     color: var(--tn-text-normal);
     font-size: var(--tn-font-size-md);
+    display: flex;
+    align-items: center;
+    gap: 4px;
 }
 
 /* Swimlane task count */
@@ -19149,6 +19230,12 @@ select.tasknotes-settings__card-input {
     opacity: 0.5;
     transform: rotate(2deg);
     box-shadow: var(--tn-shadow-medium);
+}
+
+@media (pointer: coarse) {
+    .kanban-view__column-header-cell--dragging {
+        pointer-events: none;
+    }
 }
 
 .kanban-view__column-header-cell .kanban-view__column-title {

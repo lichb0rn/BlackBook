@@ -7,7 +7,7 @@ tags:
   - status/active
 ---
 ## Tasks
-
+- [ ]  Pagination на странице компонентов не работает
 
 ## Notes & Progress  
 [[2025-12-27 Расчёт в горутинах]]
