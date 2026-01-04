@@ -11,6 +11,7 @@ tags:
 
 ## Notes & Progress  
 [[2025-12-27 Расчёт в горутинах]]
+[[MongoDB Capped Collections]]
 
 ## Links & References  
 https://pkritiotis.io/clean-architecture-in-golang/
