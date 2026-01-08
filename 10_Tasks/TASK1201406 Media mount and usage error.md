@@ -5,7 +5,7 @@ system: Commvault
 tags:
   - type/incident
 created: 2025-12-25
-summary: Рекомендовал сделать reset для библиотеки и перезапустить сервисы
+summary: Перезапустили сервисы, проблема пока не повторялась. Наблюдаем до конца праздников.
 ---
 ## Context
 - Customer environment: Commvault, 11.32.13
