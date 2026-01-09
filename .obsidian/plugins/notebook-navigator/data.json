@@ -285,7 +285,12 @@
   "checkForUpdatesOnStart": true,
   "confirmBeforeDelete": true,
   "customVaultName": "",
-  "pinnedNotes": {},
+  "pinnedNotes": {
+    "20_Projects/Greenlight/Greenlight.md": {
+      "folder": true,
+      "tag": false
+    }
+  },
   "fileIcons": {},
   "fileColors": {},
   "folderIcons": {},

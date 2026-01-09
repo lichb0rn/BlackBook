@@ -7,7 +7,6 @@ created: 2025-10-26
 description: Explore the top Next.js open source projects to master real-world web development skills. Learn server-side rendering, API integration, and more with hands-on examples. Perfect for developers looking to level up their expertise!
 tags:
   - clippings
-  - nextjs
 ---
 ## Top Open-source Projects built with [[NextJS|Next.js]]
 
