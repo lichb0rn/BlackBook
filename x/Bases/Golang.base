@@ -1,0 +1,14 @@
+filters:
+  or:
+    - file.hasLink("01 MOC/Golang")
+    - up.contains(link("Golang"))
+views:
+  - type: table
+    name: All Notes
+    order:
+      - file.name
+      - tags
+      - up
+    columnSize:
+      file.name: 693
+      note.tags: 229
