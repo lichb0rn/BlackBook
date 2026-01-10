@@ -11,11 +11,11 @@ views:
       - summary
       - created
     sort:
+      - property: file.mtime
+        direction: DESC
       - property: summary
         direction: ASC
       - property: file.name
-        direction: DESC
-      - property: file.mtime
         direction: DESC
     columnSize:
       file.name: 469
