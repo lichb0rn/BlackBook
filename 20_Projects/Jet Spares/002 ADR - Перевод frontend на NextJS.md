@@ -2,7 +2,7 @@
 tags:
   - "#adr/proposed"
 created: 2025-10-24
-project: "[[Jet Spares]]"
+project: "[[Jet Spares Old Main]]"
 ---
 ## Context
 Разрабатывать весь frontend с нуля долго и неудобно. 

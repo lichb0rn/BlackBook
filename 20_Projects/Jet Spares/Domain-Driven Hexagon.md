@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Domain-Driven Design]]"
-related: "[[Jet Spares]]"
+related: "[[Jet Spares Old Main]]"
 created: 2025-04-20
 tags:
   - architecture

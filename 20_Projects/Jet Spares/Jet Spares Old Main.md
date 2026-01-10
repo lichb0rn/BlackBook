@@ -1,14 +1,4 @@
----
-created: 2025-11-16 20:07
-up:
-  - "[[Jet Spares Old Main]]"
-  - "[[10 Software Development]]"
-related:
-aliases:
-tags:
-  - "#type/project"
-  - "#status/active"
-summary: Миграция Frontend Jet Spares с react + vite на next.js
+
 ---
 ## Logs or Sprints
 ```dataview
@@ -53,8 +43,7 @@ TABLE WITHOUT ID
 	summary
 FROM !"x/Templates"
 WHERE icontains(up, this.file.link)
-AND icontains(tags, "type/note")
-OR icontains(related, this.file.link)
+AND icontains(tags, "project/note")
 SORT filename DESC
 ```
 
@@ -78,3 +67,26 @@ AND completed
 GROUP BY file.name as filename
 SORT filename DESC
 ```
+
+
+## Notes & Progress  
+- Можно использовать `Set` для `DeviceComponent`, `ForecastPeriod`.
+- [[Traefik]] вместо [[NGINX]]
+- `filter` в ComponentsQuery раньше использовался для фильтрации по категориям
+	- <font color="#d83931">Исправить на фронте</font>
+- Проверять, если таск с таким номером у пользователя, при создании нового расчёта
+- Если кто-то оверрайтит посчитанное количество до 0, то удалять из Calculation
+- [[JS Refactoring]]
+
+
+## Links & References  
+- [[Add Authentication to MongoDB]]
+- [[CUSTOM MONGODB MIGRATION]]
+- [[How I Design Beautiful SaaS (Frontend & UI Guide)]]
+- [[JS Deployment]]
+
+## Status Tracking  
+- **Active:** `#projects/active`  
+- **Paused:** `#projects/paused`  
+- **Finished:** `#projects/finished`  
+- **Archived:** `#projects/archived`  

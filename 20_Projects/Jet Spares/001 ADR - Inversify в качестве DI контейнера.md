@@ -2,7 +2,7 @@
 tags:
   - "#adr/accepted"
 created: 2025-05-03
-project: "[[Jet Spares]]"
+project: "[[Jet Spares Old Main]]"
 ---
 ## Context
 В проекте уже довольно много объектов. Почти все создаются бесконтрольно через barrel-файл `index.ts`. Из-за этого стало сложно добавлять unit-тесты в проект.

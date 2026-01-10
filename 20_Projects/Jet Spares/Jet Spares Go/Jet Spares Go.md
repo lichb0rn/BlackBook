@@ -1,6 +1,6 @@
 ---
 up:
-related: "[[Jet Spares]]"
+related: "[[Jet Spares Old Main]]"
 created: 2025-03-30
 tags:
   - type/project

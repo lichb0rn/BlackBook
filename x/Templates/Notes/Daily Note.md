@@ -5,13 +5,8 @@ tags:
 ---
 # {{date}}
 
-## Incidents
-
-
-## Project Work
-
-
-## Notes
-
-
-## Open Threads
+## Tasks
+```tasks
+due today
+not done
+```

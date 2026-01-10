@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[Jet Spares]]"
-related: 
+  - "[[Jet Spares Old Main]]"
+related:
 created: 2025-06-01
 in:
 ---

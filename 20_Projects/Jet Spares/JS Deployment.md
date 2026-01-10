@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Jet Spares]]"
+  - "[[Jet Spares Old Main]]"
 related: "[[GitHub Actions]]"
 created: 2025-07-06
 ---

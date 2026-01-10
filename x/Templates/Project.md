@@ -8,6 +8,14 @@ tags:
 created: <% tp.date.now("YYYY-MM-DD") %>
 summary:
 ---
+# To Do
+```tasks
+not done
+description includes {{query.file.filenameWithoutExtension}}
+sort by due
+short mode
+```
+
 
 
 
