@@ -3,6 +3,7 @@ created: 2025-11-16 20:05
 up:
   - "[[10 Software Development]]"
 related:
+  - "[[Web Development]]"
 aliases:
 tags:
   - "#type/project"
