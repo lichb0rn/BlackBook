@@ -1,14 +1,13 @@
 ---
-kind:
-  - project
-status:
-  - in-progress
-Priority:
-  - low
-Due:
+up:
+  - "[[Golang]]"
+related:
+aliases:
 tags:
-  - golang
-topics: "[[Интерпретатор]]"
+  - "#type/project"
+  - "#status/active"
+created: 2026-01-10
+summary:
 ---
 Создание интерпретатор на языке [[Golang]] по книге [[Writing an Interpreter in Go]]
 Source code: https://interpreterbook.com/waiig_code_1.3.zip

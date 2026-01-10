@@ -1,13 +1,13 @@
 ---
 created: 2025-11-14
 up:
-  - "[[Work]]"
 related: "[[Commvault]]"
 aliases:
   - TASK1142749
 tags:
   - type/incident
 summary: Ждём результат по скорости бэкапов
+task: TASK1142749
 ---
 ## Итог
 RedOS заказчика не поддерживается cvbf драйвером Commvault. Для работы Driverless режима нужно настраивать аппаратные снапшоты.

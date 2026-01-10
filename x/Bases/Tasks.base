@@ -3,16 +3,21 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "10_Tasks"
+        - file.folder.startsWith("10_Tasks")
+        - file.hasTag("type/incident")
     order:
       - file.name
+      - task
       - summary
       - created
     sort:
+      - property: summary
+        direction: ASC
+      - property: file.name
+        direction: DESC
       - property: file.mtime
         direction: DESC
-      - property: file.name
-        direction: ASC
     columnSize:
-      file.name: 657
+      file.name: 469
+      note.task: 189
       note.summary: 312

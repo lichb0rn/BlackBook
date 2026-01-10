@@ -1,7 +1,7 @@
 ---
-source:
+parent:
 task:
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+created: <% tp.date.now("YYYY-MM-DD) %>
 tags:
   - type/evidence
 ---

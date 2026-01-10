@@ -9,7 +9,12 @@
       "hiddenFiles": [],
       "hiddenFileNamePatterns": [],
       "navigationBanner": null,
-      "shortcuts": []
+      "shortcuts": [
+        {
+          "type": "note",
+          "path": "Home.md"
+        }
+      ]
     }
   ],
   "vaultTitle": "navigation",
@@ -59,7 +64,7 @@
   "navItemHeightScaleText": true,
   "rootLevelSpacing": 0,
   "autoSelectFirstFileOnFocusChange": false,
-  "autoExpandFoldersTags": false,
+  "autoExpandFoldersTags": true,
   "springLoadedFolders": true,
   "springLoadedFoldersInitialDelay": 0.5,
   "springLoadedFoldersSubsequentDelay": 0.5,
@@ -81,9 +86,9 @@
   "defaultListMode": "standard",
   "defaultFolderSort": "modified-desc",
   "revealFileOnListChanges": true,
-  "listPaneTitle": "header",
-  "noteGrouping": "date",
-  "filterPinnedByFolder": false,
+  "listPaneTitle": "list",
+  "noteGrouping": "none",
+  "filterPinnedByFolder": true,
   "showPinnedGroupHeader": true,
   "showPinnedIcon": true,
   "optimizeNoteHeight": true,
