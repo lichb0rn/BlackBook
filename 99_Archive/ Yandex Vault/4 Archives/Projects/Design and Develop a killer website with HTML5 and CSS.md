@@ -1,0 +1,141 @@
+---
+status: archived
+tags:
+  - "#type/project"
+links: "[[Projects]]"
+deadline: 
+area: "[[Development]]"
+---
+## Parts
+
+-   [x] 021 Section Intro.mp4
+-   [x] 022 Introduction to CSS.mp4
+-   [x] 023 Inline, Internal and External CSS.mp4
+-   [x] 024 Styling Text.mp4
+-   [x] 025 Combining Selectors.mp4
+-   [x] 026 Class and ID Selectors.mp4
+-   [x] 027 Working With Colors.mp4
+-   [x] 028 Pseudo-classes.mp4
+-   [x] 029 Styling Hyperlinks.mp4
+-   [x] 030 Using Chrome DevTools.mp4
+- [x] 031 CSS Theory 1 Conflicts Between Selectors.mp4 ✅ 2023-12-11
+- [x] 032 CSS Theory 2 Inheritance and the Universal Selector.mp4 ✅ 2023-12-11
+- [x] 033 CHALLENGE 1.mp4 ✅ 2023-12-11
+- [x] 034 CSS Theory 3 The CSS Box Model.mp4 ✅ 2023-12-11
+- [x] 035 Using Margins and Paddings.mp4 ✅ 2023-12-13
+- [x] 036 Adding Dimensions.mp4 ✅ 2023-12-13
+- [x] 037 Centering our Page.mp4 ✅ 2023-12-14
+- [x] 038 CHALLENGE #2.mp4 ✅ 2023-12-25
+- [x] 039 CSS Theory 4 Types of Boxes.mp4 ✅ 2023-12-25
+- [x] 040 CSS Theory 5 Absolute Positioning.mp4 ✅ 2023-12-31
+- [x] 041 Pseudo-elements.mp4 ✅ 2023-12-31
+- [x] 042 Developer Skill 1 Googling and Reading Documentation.mp4 ✅ 2023-12-31
+- [x] 043 Developer Skill 2 Debugging and Asking Questions.mp4 ✅ 2023-12-31
+- [x] 044 CHALLENGE #3.mp4 ✅ 2023-12-31
+- [x] 045 Section Intro.mp4 ✅ 2023-12-31
+- [x] 046 The 3 Ways of Building Layouts.mp4 ✅ 2024-01-03
+- [x] 047 Using Floats.mp4 ✅ 2024-01-03
+- [x] 048 Clearing Floats.mp4 ✅ 2024-01-03
+- [x] 049 Building a Simple Float Layout.mp4 ✅ 2024-01-03
+- [x] 050 box-sizing\_ border-box.mp4 ✅ 2024-01-04
+- [x] 051 CHALLENGE #1.mp4 ✅ 2024-01-04
+- [x] 052 Introduction to Flexbox.mp4 ✅ 2024-01-10
+- [x] 053 A Flexbox Overview.mp4 ✅ 2024-01-10
+- [x] 054 Spacing and Aligning Flex Items.mp4 ✅ 2024-01-10
+- [x] 055 The flex Property.mp4 ✅ 2024-01-10
+- [x] 056 Adding Flexbox to Our Project.mp4 ✅ 2024-01-15
+- [x] 057 Building a Simple Flexbox Layout.mp4 ✅ 2024-01-15
+- [x] 058 CHALLENGE #2.mp4 ✅ 2024-01-15
+- [x] 059 Introduction to CSS Grid.mp4 ✅ 2024-01-15
+- [x] 060 A CSS Grid Overview.mp4 ✅ 2024-01-15
+- [x] 061 Sizing Grid Columns and Rows.mp4 ✅ 2024-01-15
+- [x] 062 Placing and Spanning Grid Items.mp4 ✅ 2024-01-15
+- [x] 063 Aligning Grid Items and Tracks.mp4 ✅ 2024-01-15
+- [x] 064 Building a Simple CSS Grid Layout.mp4 ✅ 2024-01-15
+- [x] 065 CHALLENGE #3.mp4 ✅ 2024-01-15
+- [x] 066 Section Intro.mp4 ✅ 2024-01-15
+- [x] 067 Project Overview.mp4 ✅ 2024-01-15
+- [x] 068 Overview of Web Design and Website Personalities.mp4 ✅ 2024-01-15
+- [x] 069 Web Design Rules #1\_ Typography.mp4 ✅ 2024-01-15
+- [x] 070 Implementing Typography.mp4 ✅ 2024-01-15
+- [x] 071 Web Design Rules #2\_ Colors.mp4 ✅ 2024-01-18
+- [x] 072 Implementing Colors.mp4 ✅ 2024-01-18
+- [x] 073 Web Design Rules #3\_ Images and Illustrations.mp4 ✅ 2024-01-18
+- [x] 074 Web Design Rules #4\_ Icons.mp4 ✅ 2024-01-18
+- [x] 075 Implementing Icons.mp4 ✅ 2024-01-18
+- [x] 076 Web Design Rules #5\_ Shadows.mp4 ✅ 2024-01-18
+- [x] 077 Implementing Shadows.mp4 ✅ 2024-01-18
+- [x] 078 Web Design Rules #6\_ Border-radius.mp4 ✅ 2024-01-18
+- [x] 079 Implementing Border-radius.mp4 ✅ 2024-01-18
+- [x] 080 Web Design Rules 7 Whitespace.mp4 ✅ 2024-01-21
+- [x] 081 Web Design Rules #8\_ Visual Hierarchy.mp4 ✅ 2024-01-21
+- [x] 082 Implementing Whitespace and Visual Hierarchy.mp4 ✅ 2024-01-21
+- [x] 083 Web Design Rules #9\_ User Experience (UX).mp4 ✅ 2024-01-23
+- [x] 084 The Website-Personalities-Framework.mp4 ✅ 2024-01-23
+- [x] 085 The Missing Piece\_ Steal Like An Artist!.mp4 ✅ 2024-01-23
+- [x] 086 Section Intro.mp4 ✅ 2024-01-23
+- [x] 087 Web Design Rules #10 - Part 1\_ Elements and Components.mp4 ✅ 2024-01-25
+- [x] 088 Building an Accordion Component - Part 1.mp4 ✅ 2024-01-25
+- [x] 089 Building an Accordion Component - Part 2.mp4 ✅ 2024-01-25
+- [x] 090 Building a Carousel Component - Part 1.mp4 ✅ 2024-01-25
+- [x] 091 Building a Carousel Component - Part 2.mp4 ✅ 2024-01-25
+- [x] 092 Building a Table Component - Part 1.mp4 ✅ 2024-01-27
+- [x] 093 Building a Table Component - Part 2.mp4 ✅ 2024-01-27
+- [x] 094 CHALLENGE #1\_ Building a Pagination Component.mp4 ✅ 2024-01-27
+- [x] 095 Web Design Rules #10 - Part 2\_ Layout Patterns.mp4 ✅ 2024-01-27
+- [x] 096 Building a Hero Section - Part 1.mp4 ✅ 2024-01-27
+- [x] 097 Building a Hero Section - Part 2.mp4 ✅ 2024-01-27
+- [x] 098 Building a Web Application Layout - Part 1.mp4 ✅ 2024-01-27
+- [x] 099 Building a Web Application Layout - Part 2.mp4 ✅ 2024-01-27
+- [x] 100 Section Intro.mp4 ✅ 2024-01-27
+- [x] 101 The 7 Steps to a Great Website.mp4 ✅ 2024-01-28
+- [x] 102 Defining and Planning the Project (Steps 1 and 2).mp4 ✅ 2024-01-30
+- [x] 103 Sketching Initial Layout Ideas (Step 3).mp4 ✅ 2024-01-30
+- [x] 104 First Design and Development Steps (Step 4).mp4 ✅ 2024-01-30
+- [x] 105 Responsive Design Principles.mp4 ✅ 2024-01-30
+- [x] 106 How rem and max-width Work.mp4 ✅ 2024-01-30
+- [x] 107 Building the Hero - Part 1.mp4 ✅ 2024-02-05
+- [x] 108 Building the Hero - Part 2.mp4 ✅ 2024-02-05
+- [x] 109 Building the Hero - Part 3.mp4 ✅ 2024-02-05
+- [x] 110 Building the Header.mp4 ✅ 2024-02-10
+- [x] 111 Building the Navigation.mp4 ✅ 2024-02-11
+- [x] 112 Setting Up a Reusable Grid.mp4 ✅ 2024-02-11
+- [x] 113 Building the How-It-Works Section - Part 1.mp4 ✅ 2024-02-12
+- [x] 114 Building the How-It-Works Section - Part 2.mp4 ✅ 2024-02-12
+- [x] 115 Building the Featured-In Section.mp4 ✅ 2024-02-17
+- [x] 116 Building the Meals Section - Part 1.mp4 ✅ 2024-02-17
+- [x] 117 Building the Meals Section - Part 2.mp4 ✅ 2024-02-17
+- [x] 118 Building the Meals Section - Part 3.mp4 ✅ 2024-02-17
+- [x] 119 Building the Testimonials Section - Part 1.mp4 ✅ 2024-02-19
+- [x] 120 Building the Testimonials Section - Part 2.mp4 ✅ 2024-02-19
+- [x] 121 Building the Pricing Section - Part 1.mp4 ✅ 2024-02-20
+- [x] 122 Building the Pricing Section - Part 2.mp4 [[Pri]]
+- [x] 123 Building the Features Part.mp4 ✅ 2024-02-21
+- [x] 124 Building the Call-To-Action Section - Part 1.mp4 ✅ 2024-02-21
+- [x] 125 Building the Call-To-Action Section - Part 2.mp4 ✅ 2024-02-22
+- [x] 126 Building the Call-To-Action Section - Part 3.mp4 ✅ 2024-02-22
+- [x] 127 Building the Footer - Part 1.mp4 ✅ 2024-02-22
+- [x] 128 Building the Footer - Part 2.mp4 ✅ 2024-02-23
+- [x] 129 Section Intro.mp4 ✅ 2024-02-23
+- [x] 130 How Media Queries Work.mp4 ✅ 2024-02-27
+- [x] 131 How to Select Breakpoints.mp4 ✅ 2024-02-27
+- [x] 132 Responding to Small Laptops.mp4 ✅ 2024-02-27
+- [x] 133 Responding to Landscape Tablets.mp4 ✅ 2024-02-27
+- [x] 134 Responding to Tablets.mp4 ✅ 2024-02-29
+- [x] 135 Building the Mobile Navigation.mp4 ✅ 2024-02-29
+- [x] 136 Responding to Smaller Tablets.mp4 ✅ 2024-02-29
+- [x] 137 Responding to Phones.mp4 ✅ 2024-02-29
+- [x] 138 Section Intro.mp4 ✅ 2024-02-29
+- [x] 139 A Short Introduction to JavaScript.mp4 ✅ 2024-03-01
+- [x] 140 Making the Mobile Navigation Work.mp4 ✅ 2024-03-01
+- [x] 141 Implementing Smooth Scrolling.mp4 ✅ 2024-03-04
+- [x] 142 Implementing a Sticky Navigation Bar.mp4 ✅ 2024-03-04
+- [x] 143 Browser Support and Fixing Flexbox Gap in Safari.mp4 ✅ 2024-03-04
+- [x] 144 Testing Performance With Lighthouse.mp4 ✅ 2024-03-04
+- [x] 145 Adding Favicon and Meta Description.mp4 ✅ 2024-03-05
+- [x] 146 Image Optimizations.mp4 ✅ 2024-03-05
+- [x] 147 Deployment to Netlify.mp4 ✅ 2024-03-05
+- [x] 148 Making the Form Work With Netlify Forms.mp4 ✅ 2024-03-05
+- [x] 149 Where to Go from Here.mp4 ✅ 2024-03-05
+
+![[068 all-design-guidelines.pdf]]
