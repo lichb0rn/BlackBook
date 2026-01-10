@@ -2,6 +2,9 @@ filters:
   or:
     - up.contains(link("Golang"))
 views:
+  - type: list
+    name: View
+    indentProperties: true
   - type: table
     name: All Notes
     order:
@@ -11,6 +14,3 @@ views:
     columnSize:
       file.name: 693
       note.tags: 229
-  - type: list
-    name: View
-    indentProperties: true

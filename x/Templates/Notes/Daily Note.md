@@ -1,11 +1,13 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+date: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - type/daily
 ---
 # {{date}}
 
-## Tasks
+
+
+##  Due Today
 ```tasks
 due today
 not done
