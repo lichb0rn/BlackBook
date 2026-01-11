@@ -2,6 +2,7 @@
 up:
   - "[[10 Software Development]]"
 related:
+  - "[[Golang]]"
 aliases:
 tags:
   - "#type/project"
