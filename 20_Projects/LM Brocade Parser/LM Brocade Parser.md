@@ -8,7 +8,7 @@ aliases:
 tags:
   - "#type/project"
   - "#status/active"
-summary: Сервис по анализу SupportSave Brocade
+summary: Сделать рендер конфига брокейда на фронте
 ---
 ## Logs or Sprints
 ```dataview

@@ -1,14 +1,13 @@
 ---
 created: 2025-11-16 20:07
 up:
-  - "[[Jet Spares Old Main]]"
-  - "[[10 Software Development]]"
+  - "[[Jet Spares]]"
 related:
 aliases:
 tags:
   - "#type/project"
   - "#status/active"
-summary: Миграция Frontend Jet Spares с react + vite на next.js
+summary: Доделать action по добавлению в конфиг компонента
 ---
 ## Logs or Sprints
 ```dataview

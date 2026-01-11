@@ -8,7 +8,7 @@ aliases:
 tags:
   - "#type/project"
   - "#status/active"
-summary: Исправить баг парсинга
+summary: Исправить баг загрузки по ссылке
 ---
 ```tasks
 not done

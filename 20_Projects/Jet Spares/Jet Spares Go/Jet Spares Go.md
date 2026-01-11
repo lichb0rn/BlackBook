@@ -1,10 +1,12 @@
 ---
 up:
+  - "[[Jet Spares]]"
 related: "[[Jet Spares Old Main]]"
 created: 2025-03-30
 tags:
   - type/project
   - status/active
+summary: Сделать добавления компонента в конфиг
 ---
 ## Tasks
 - [x] Pagination на странице компонентов не работает ✅ 2026-01-04

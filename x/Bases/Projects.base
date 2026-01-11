@@ -3,6 +3,9 @@ filters:
     - file.tags.contains("#type/project")
     - file.tags.contains("#status/active")
     - '!file.folder.startsWith("x")'
+properties:
+  note.summary:
+    displayName: Next Action
 views:
   - type: table
     name: Table

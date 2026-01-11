@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Web Development]]"
+  - "[[10 Software Development]]"
 related:
   - "[[Golang]]"
 aliases:
@@ -8,7 +8,7 @@ tags:
   - "#type/project"
   - "#status/active"
 created: 2025-12-21
-summary: Обучающий проект по разработке API на Go
+summary: Закончить проект
 github: https://github.com/lichb0rn/greenlight
 ---
 
