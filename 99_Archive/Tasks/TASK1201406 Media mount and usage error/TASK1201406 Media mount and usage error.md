@@ -3,9 +3,9 @@ task: TASK1201406
 customer: ТМК
 system: Commvault
 tags:
-  - type/incident
+  - type/incident/finished
 created: 2025-12-25
-summary: Перезапустили сервисы, проблема пока не повторялась. Наблюдаем до конца праздников.
+summary: Перезапустили сервисы, проблема пока не повторялась.
 ---
 ## Context
 - Customer environment: Commvault, 11.32.13
