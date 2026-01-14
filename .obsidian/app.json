@@ -6,5 +6,6 @@
   "showUnsupportedFiles": true,
   "promptDelete": false,
   "showInlineTitle": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "openBehavior": "file:Home"
 }
