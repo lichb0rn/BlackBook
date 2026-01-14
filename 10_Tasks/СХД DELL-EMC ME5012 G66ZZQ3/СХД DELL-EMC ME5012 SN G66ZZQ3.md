@@ -12,6 +12,9 @@ summary:
 >[!quote]
 >01 января в 6:48 и 07 января в 7:04 кратковременно пропадал LUN. Посмотрите со стороны массива, были ли какие-то проблемы.
 
+>[!warning]
+>Cluster Shared Volume is no longer accessible from this cluster node because of error '(1460)'.
+
 Тома
 - P1_L1_cl3-data2
 
