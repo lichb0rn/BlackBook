@@ -25,7 +25,8 @@ _--- Job Indications ---_
 _trassirgka-2.corp.tander.ru:pseudo_saveset: retried 1 times._
 
 
-
+# Logs
+[[202601151656 - Логи Тандер для trassirgka-2]]
 
 
 
