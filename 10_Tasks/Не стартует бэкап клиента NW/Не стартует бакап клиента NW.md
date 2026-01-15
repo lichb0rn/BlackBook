@@ -27,7 +27,7 @@ _trassirgka-2.corp.tander.ru:pseudo_saveset: retried 1 times._
 
 # Logs
 [[202601151656 - Логи Тандер для trassirgka-2]]
-
+- Проверить https://tools.jet.su/emc_kb/000224041/
 
 
 
