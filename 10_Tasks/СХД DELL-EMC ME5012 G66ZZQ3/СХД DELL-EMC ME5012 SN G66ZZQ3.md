@@ -5,7 +5,7 @@ system: "[[PowerVault ME5]]"
 tags:
   - type/incident
 created: 2026-01-13
-summary:
+summary: Выданы рекомендации проверить SAN, проблема предположительно в ОС
 ---
 
 ## Описание

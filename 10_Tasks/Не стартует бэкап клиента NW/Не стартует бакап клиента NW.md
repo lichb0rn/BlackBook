@@ -5,7 +5,7 @@ system: "[[NetWorker]]"
 tags:
   - type/incident
 created: 2026-01-15
-summary:
+summary: Проблема на стороне ОС, не работает VSS
 ---
 
 >[!quote]
