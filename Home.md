@@ -1,5 +1,7 @@
  [[00 Maps]]
 
+[[Vault]]
+
 # To Do
 ```tasks
 not done

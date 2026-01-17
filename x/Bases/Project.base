@@ -1,0 +1,136 @@
+properties:
+  note.summary:
+    displayName: summary
+views:
+  - type: table
+    name: Sub Projects
+    filters:
+      and:
+        - up.contains(link(this.file.name))
+        - file.tags.contains("type/project")
+    order:
+      - file.name
+      - created
+      - summary
+      - file.tags
+      - priority
+    sort:
+      - property: summary
+        direction: DESC
+      - property: created
+        direction: DESC
+      - property: file.name
+        direction: DESC
+    rowHeight: medium
+    columnSize:
+      file.name: 334
+      note.status: 99
+      note.summary: 269
+      file.tags: 209
+  - type: table
+    name: Work Sessions / Meetings
+    filters:
+      and:
+        - up.contains(this.file.name)
+        - or:
+            - type.contains("type/meeting")
+    order:
+      - file.name
+      - summary
+    sort:
+      - property: created
+        direction: DESC
+    rowHeight: tall
+    columnSize:
+      file.name: 256
+  - type: table
+    name: Child Notes
+    filters:
+      and:
+        - up.contains(this.file.name)
+    order:
+      - priority
+      - file.name
+      - summary
+      - category
+      - area
+      - file.tags
+    sort:
+      - property: summary
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: priority
+        direction: DESC
+    rowHeight: tall
+    columnSize:
+      note.priority: 75
+      file.name: 184
+      note.summary: 241
+      note.type: 133
+      note.category: 154
+  - type: table
+    name: Related Notes
+    filters:
+      and:
+        - related.contains(link(this.file.name))
+    order:
+      - file.name
+      - summary
+      - file.tags
+    sort:
+      - property: priority
+        direction: ASC
+      - property: type
+        direction: DESC
+    limit: 5
+    rowHeight: medium
+    columnSize:
+      file.name: 288
+      note.summary: 345
+  - type: table
+    name: Knowledge Base Notes
+    filters:
+      and:
+        - file.tags.contains("type/note")
+        - up.contains(link(this.file.name))
+    rowHeight: medium
+  - type: table
+    name: Participants
+    filters:
+      and:
+        - and:
+            - participants.contains(link(this.file.name))
+        - or:
+            - type.contains("meeting")
+            - type.contains("work-session")
+            - file.tags.contains("#type/meeting")
+            - file.tags.contains("#type/work-session")
+    order:
+      - file.name
+      - summary
+      - category
+      - file.tags
+    sort:
+      - property: created
+        direction: DESC
+    rowHeight: medium
+    columnSize:
+      file.name: 256
+      note.summary: 470
+      note.type: 104
+  - type: table
+    name: Knowledge Base by Tag
+    filters:
+      and:
+        - file.tags.containsAll(this.file.tags)
+        - file.name != this.file.name
+        - "!this.file.tags.isEmpty()"
+    order:
+      - file.name
+      - summary
+      - file.tags
+    rowHeight: medium
+    columnSize:
+      file.name: 498
+      note.summary: 376

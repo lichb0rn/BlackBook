@@ -6,8 +6,8 @@ related: "[[Data Domain]]"
 aliases:
   - TASK1155498
 tags:
-  - "#type/project"
-  - status/finished
+  - type/incident
+  - status/archived
 summary:
 ---
 ## Итог

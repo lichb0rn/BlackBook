@@ -2,7 +2,7 @@
 tags:
   - type/adr
 created:
-project:
+up:
 ---
 ## Context
 What is the issue that we're seeing that is motivating this decision or change?

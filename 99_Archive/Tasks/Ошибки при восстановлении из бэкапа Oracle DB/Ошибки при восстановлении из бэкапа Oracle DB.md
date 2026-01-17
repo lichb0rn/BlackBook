@@ -6,8 +6,8 @@ related: "[[Commvault]]"
 aliases:
   - TASK1107203
 tags:
-  - "#type/project"
-  - status/finished
+  - type/incident
+  - status/archived
 summary: Наблюдаются ошибки восстановления БД Oracle
 ---
 ## Logs or Sprints

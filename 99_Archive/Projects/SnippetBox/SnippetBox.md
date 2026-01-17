@@ -5,7 +5,7 @@ related:
 aliases:
 tags:
   - "#type/project"
-  - status/finished
+  - status/archived
 created: 2025-12-15 09:48
 summary:
 github: https://github.com/lichb0rn/snippetbox

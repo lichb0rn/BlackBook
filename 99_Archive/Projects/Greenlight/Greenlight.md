@@ -6,7 +6,7 @@ related:
 aliases:
 tags:
   - "#type/project"
-  - status/finished
+  - status/archived
 created: 2025-12-21
 summary: Закончить проект
 github: https://github.com/lichb0rn/greenlight

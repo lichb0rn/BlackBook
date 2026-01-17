@@ -8,21 +8,18 @@ tags:
 created: <% tp.date.now("YYYY-MM-DD") %>
 summary:
 ---
-# To Do
-```tasks
-not done
-description includes {{query.file.filenameWithoutExtension}}
-sort by due
-short mode
-```
+## Work Sessions
+![[Project.base#Work Sessions / Meetings]]
 
+## Child Notes
+![[Project.base#Child Notes]]
 
-
-
+## Related Notes
+![[Project.base#Related Notes]]
 
 
 ## Status Tracking  
-- **Active:** `#projects/active`  
-- **Paused:** `#projects/paused`  
-- **Finished:** `#projects/finished`  
-- **Archived:** `#projects/archived`  
+- **Active:** `#status/active`  
+- **Paused:** `#status/paused`  
+- **Finished:** `#status/finished`  
+- **Archived:** `#status/archived`  

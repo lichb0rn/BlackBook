@@ -6,11 +6,30 @@ related:
 aliases:
 tags:
   - "#type/project"
-  - "#status/active"
-created: 2026-01-10
-summary: Закончить проект
+  - status/paused
+created: 2026-01-16
+Next Action: Закончить проект
 ---
+```tasks
+not done
+```
+
+
 Создание интерпретатор на языке [[Golang]] по книге [[Writing an Interpreter in Go]]
 Source code: https://interpreterbook.com/waiig_code_1.3.zip
 
-[[Лексический анализ]]
+## Work Sessions
+![[Project.base#Work Sessions / Meetings]]
+
+## Child Notes
+![[Project.base#Child Notes]]
+
+## Related Notes
+![[Project.base#Related Notes]]
+
+
+## Status Tracking  
+- **Active:** `#status/active`  
+- **Paused:** `#status/paused`  
+- **Finished:** `#status/finished`  
+- **Archived:** `#status/archived`  

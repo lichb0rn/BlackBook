@@ -1,0 +1,10 @@
+{
+  "slashTrigger": "/",
+  "fuzzySearch": true,
+  "highlight": true,
+  "showPath": false,
+  "showFileContent": false,
+  "snippetPath": "x/Snippets",
+  "ignoreProperties": true,
+  "templaterSupport": true
+}

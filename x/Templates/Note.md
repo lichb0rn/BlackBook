@@ -5,7 +5,7 @@ tags:
 source:
 related:
 area:
-project:
+up:
 ---
 # {{title}}
 

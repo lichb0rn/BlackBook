@@ -1,7 +1,7 @@
 filters:
   and:
     - file.tags.contains("#type/project")
-    - file.tags.contains("#status/active")
+    - file.tags.containsAny("#status/active", "#status/paused")
     - '!file.folder.startsWith("x")'
 properties:
   note.summary:
