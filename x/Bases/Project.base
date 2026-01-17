@@ -56,18 +56,16 @@ views:
       - area
       - file.tags
     sort:
+      - property: category
+        direction: ASC
       - property: summary
         direction: ASC
-      - property: file.name
-        direction: DESC
       - property: priority
         direction: DESC
     rowHeight: tall
     columnSize:
-      note.priority: 75
-      file.name: 184
-      note.summary: 241
-      note.type: 133
+      file.name: 248
+      note.summary: 432
       note.category: 154
   - type: table
     name: Related Notes
@@ -86,8 +84,8 @@ views:
     limit: 5
     rowHeight: medium
     columnSize:
-      file.name: 288
-      note.summary: 345
+      file.name: 484
+      note.summary: 460
   - type: table
     name: Knowledge Base Notes
     filters:

@@ -2,7 +2,7 @@
   "slashTrigger": "/",
   "fuzzySearch": true,
   "highlight": true,
-  "showPath": false,
+  "showPath": true,
   "showFileContent": false,
   "snippetPath": "x/Snippets",
   "ignoreProperties": true,
