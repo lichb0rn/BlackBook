@@ -10,11 +10,6 @@ tags:
 created: 2026-01-16
 Next Action: Закончить проект
 ---
-```tasks
-not done
-```
-
-
 Создание интерпретатор на языке [[Golang]] по книге [[Writing an Interpreter in Go]]
 Source code: https://interpreterbook.com/waiig_code_1.3.zip
 
@@ -26,6 +21,16 @@ Source code: https://interpreterbook.com/waiig_code_1.3.zip
 
 ## Related Notes
 ![[Project.base#Related Notes]]
+
+
+## Tasks
+```tasks
+not done
+description includes {{query.file.filenameWithoutExtension}}
+sort by due
+group by function task.file.filenameWithoutExtension
+short mode
+```
 
 
 ## Status Tracking  

@@ -21,6 +21,15 @@ summary:
 ![[Task.base#Related Notes]]
 
 
+## Tasks
+```tasks
+not done
+description includes {{query.file.filenameWithoutExtension}}
+sort by due
+group by function task.file.filenameWithoutExtension
+short mode
+```
+
 ## Status Tracking  
 - **Active:** `#status/active`  
 - **Paused:** `#status/paused`  
