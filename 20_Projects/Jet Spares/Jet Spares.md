@@ -2,7 +2,6 @@
 created: 2026-01-17
 up:
   - "[[10 Software Development]]"
-  - "[[**Area of Parent Project**]]"
 related:
   - "[[Web Development]]"
 aliases:
