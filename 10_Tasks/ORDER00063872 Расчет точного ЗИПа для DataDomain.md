@@ -12,7 +12,7 @@ summary:
 - [x] DSDC3-DD-01 CKM01214305666_CKM01214305667
 - [x] DSDC4-DD-01 CKM01210805812_CKM01210805815
 - [x] dsdc3-dd-tdbar CKM00200700702_CKM00200600002
-- [ ] dsdc4-dd-loy CKM00200700700
+- [x] dsdc4-dd-loy CKM00200700700
 
 ## Описание
 Посчитать точный ЗИП для [[Data Domain]]:
