@@ -45,10 +45,6 @@
   "calendarHighlightToday": true,
   "calendarShowWeekNumber": false,
   "calendarConfirmBeforeCreate": true,
-  "calendarIntegrationMode": "daily-notes",
-  "calendarCustomRootFolder": "",
-  "calendarCustomFilePattern": "YYYY/YYYYMMDD",
-  "calendarCustomPromptForTitle": true,
   "colorIconOnly": false,
   "showNoteCount": true,
   "separateNoteCounts": true,
@@ -329,5 +325,9 @@
   "lastShownVersion": "",
   "lastAnnouncedRelease": "2.1.0",
   "rootFolderOrder": [],
-  "rootTagOrder": []
+  "rootTagOrder": [],
+  "calendarIntegrationMode": "daily-notes",
+  "calendarCustomRootFolder": "",
+  "calendarCustomFilePattern": "YYYY/YYYYMMDD",
+  "calendarCustomPromptForTitle": true
 }
