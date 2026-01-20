@@ -6,6 +6,7 @@ aliases:
   - TASK1142749
 tags:
   - type/incident
+  - status/active
 summary: Ждём результат по скорости бэкапов
 task: TASK1142749
 ---
