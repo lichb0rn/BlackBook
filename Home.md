@@ -1,4 +1,4 @@
-s [[00 Maps]]
+[[00 Maps]]
 
 [[Vault]]
 

@@ -8,6 +8,16 @@ tags:
 created: <% tp.date.now("YYYY-MM-DD") %>
 summary:
 ---
+## Logs
+```dataview
+TASK
+WHERE icontains(text, this.file.name)
+AND icontains(text, "#type/log")
+GROUP BY file.name as filename
+SORT filename DESC
+```
+
+
 ## Sub Tasks
 ![[Task.base#Sub Tasks]]
 

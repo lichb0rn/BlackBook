@@ -19,8 +19,15 @@ summary: Выданы рекомендации проверить SAN, проб�
 Тома
 - P1_L1_cl3-data2
 
+
 ## Logs
-[[202601151131 - Выводы команд PowerVault ME5012 ИЛИМ]]
+```dataview
+TASK
+WHERE icontains(text, this.file.name)
+AND icontains(text, "#type/log")
+GROUP BY file.name as filename
+SORT filename DESC
+```
 
 
 ## Sub Tasks

@@ -5,7 +5,7 @@ system: "[[Data Domain]]"
 tags:
   - type/incident
 created: 2026-01-12
-summary:
+summary: ЗИП посчитан
 ---
 ## Прогресс
 - [x] DSDC2-DD-01 CKM01210805813_CKM01210805814

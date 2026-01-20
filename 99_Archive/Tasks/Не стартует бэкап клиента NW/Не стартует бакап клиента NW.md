@@ -4,6 +4,7 @@ customer: "[[Тандер]]"
 system: "[[NetWorker]]"
 tags:
   - type/incident
+  - status/archived
 created: 2026-01-15
 summary: Проблема на стороне ОС, не работает VSS
 ---

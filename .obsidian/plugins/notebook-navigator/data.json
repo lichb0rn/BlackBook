@@ -19,6 +19,24 @@
     }
   ],
   "vaultTitle": "navigation",
+  "syncModes": {
+    "vaultProfile": "local",
+    "tagSortOrder": "local",
+    "searchProvider": "local",
+    "includeDescendantNotes": "local",
+    "dualPane": "local",
+    "dualPaneOrientation": "local",
+    "paneTransitionDuration": "local",
+    "toolbarVisibility": "local",
+    "showCalendar": "local",
+    "navIndent": "local",
+    "navItemHeight": "local",
+    "navItemHeightScaleText": "local",
+    "calendarWeeksToShow": "local",
+    "compactItemHeight": "local",
+    "compactItemHeightScaleText": "local",
+    "uiScale": "local"
+  },
   "autoRevealActiveFile": true,
   "autoRevealIgnoreRightSidebar": true,
   "multiSelectModifier": "cmdCtrl",
@@ -45,6 +63,10 @@
   "calendarHighlightToday": true,
   "calendarShowWeekNumber": false,
   "calendarConfirmBeforeCreate": true,
+  "calendarIntegrationMode": "daily-notes",
+  "calendarCustomRootFolder": "",
+  "calendarCustomFilePattern": "YYYY/YYYYMMDD",
+  "calendarCustomPromptForTitle": true,
   "colorIconOnly": false,
   "showNoteCount": true,
   "separateNoteCounts": true,
@@ -325,9 +347,5 @@
   "lastShownVersion": "",
   "lastAnnouncedRelease": "2.1.0",
   "rootFolderOrder": [],
-  "rootTagOrder": [],
-  "calendarIntegrationMode": "daily-notes",
-  "calendarCustomRootFolder": "",
-  "calendarCustomFilePattern": "YYYY/YYYYMMDD",
-  "calendarCustomPromptForTitle": true
+  "rootTagOrder": []
 }
