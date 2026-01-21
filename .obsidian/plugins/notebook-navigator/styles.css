@@ -5118,6 +5118,34 @@ body.nn-resizing {
     font-weight: 600;
 }
 
+/* Sync mode toggle button (cloud/device) */
+.nn-setting-sync-toggle {
+    color: var(--text-muted);
+    opacity: 0.85;
+}
+
+.nn-setting-sync-toggle:hover {
+    color: var(--text-normal);
+    opacity: 1;
+}
+
+/* "Not synced" marker appended to setting names */
+.nn-settings-tab-root .setting-item-name.nn-setting-not-synced::after {
+    content: ' ' attr(data-nn-sync-marker);
+    color: var(--text-muted);
+    font-weight: normal;
+}
+
+.mod-rtl .nn-settings-tab-root .setting-item-name.nn-setting-not-synced::after {
+    content: '';
+}
+
+.mod-rtl .nn-settings-tab-root .setting-item-name.nn-setting-not-synced::before {
+    content: attr(data-nn-sync-marker) ' ';
+    color: var(--text-muted);
+    font-weight: normal;
+}
+
 /* Container for additional info below settings */
 .nn-setting-info-container {
     margin-top: 8px;
@@ -6317,6 +6345,23 @@ body.nn-resizing {
         color-mix(in srgb, var(--nn-theme-mobile-bg) calc(var(--nn-ios-pane-bottom-fade-opacity) * 100%), transparent)
     );
     z-index: -1;
+}
+
+/*
+ * iOS + Obsidian 1.11+: WebKit paint workaround for virtualized lists.
+ *
+ * Symptom:
+ * - The list can render blank (rows not visible) after preview text / feature image updates when the list is short
+ *   enough that the scroller does not overflow (scrollHeight === clientHeight).
+ * - The DOM still contains the virtualized row elements and TanStack Virtual still reports virtual items, but the
+ *   scroll layer does not repaint until a user interaction (tap) or a layout-triggering event (rotation).
+ *
+ * Workaround:
+ * - Force each rendered virtual row wrapper onto its own composited layer. This makes WebKit repaint the rows
+ *   reliably when the virtualizer remeasures and updates absolute positioning.
+ */
+.notebook-navigator-obsidian-1-11-plus-ios .nn-list-pane .nn-virtual-item {
+    transform: translateZ(0);
 }
 /* Source: src/styles/sections/platform-android-obsidian-1-11.css */
 

@@ -4,15 +4,16 @@ customer: "[[Тандер]]"
 system: "[[Data Domain]]"
 tags:
   - type/incident
+  - status/active
 created: 2026-01-12
-summary:
+summary: ЗИП посчитан
 ---
 ## Прогресс
 - [x] DSDC2-DD-01 CKM01210805813_CKM01210805814
 - [x] DSDC3-DD-01 CKM01214305666_CKM01214305667
 - [x] DSDC4-DD-01 CKM01210805812_CKM01210805815
-- [ ] dsdc3-dd-tdbar CKM00200700702_CKM00200600002
-- [ ] dsdc4-dd-loy CKM00200700700
+- [x] dsdc3-dd-tdbar CKM00200700702_CKM00200600002
+- [x] dsdc4-dd-loy CKM00200700700
 
 ## Описание
 Посчитать точный ЗИП для [[Data Domain]]:
