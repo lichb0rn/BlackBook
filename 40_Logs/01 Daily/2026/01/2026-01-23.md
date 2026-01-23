@@ -10,7 +10,6 @@ tags:
 ##  Due Today
 ```tasks
 (due today) OR (scheduled today)
-not done
 short
 show tree
 ```
