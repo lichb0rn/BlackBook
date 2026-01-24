@@ -56,8 +56,8 @@ views:
       - area
       - file.tags
     sort:
-      - property: category
-        direction: ASC
+      - property: file.ctime
+        direction: DESC
       - property: summary
         direction: ASC
       - property: priority
