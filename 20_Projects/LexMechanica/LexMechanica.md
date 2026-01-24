@@ -14,6 +14,8 @@ tags:
   - "#status/active"
 summary: Исправить баг загрузки по ссылке
 ---
+Тестовая заявка: [TASK0913767](https://sd.jet.su/record/itsm_infosys_task/174437466804378123)
+
 ## Logs
 ```dataview
 TASK

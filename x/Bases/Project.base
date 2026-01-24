@@ -33,7 +33,7 @@ views:
       and:
         - up.contains(this.file.name)
         - or:
-            - type.contains("type/meeting")
+            - file.tags.contains("type/meeting")
     order:
       - file.name
       - summary
