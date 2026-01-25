@@ -2,7 +2,6 @@
 created: 2026-01-24
 up:
   - "[[10 Software Development|Software Development]]"
-  - "[[**Area of Parent Project**]]"
 related:
   - "[[Work]]"
   - "[[Golang|Go]]"
@@ -12,7 +11,7 @@ aliases:
 tags:
   - "#type/project"
   - "#status/active"
-summary: Исправить баг загрузки по ссылке
+summary: Продолжить работу над парсером brocade
 ---
 Тестовая заявка: [TASK0913767](https://sd.jet.su/record/itsm_infosys_task/174437466804378123)
 
