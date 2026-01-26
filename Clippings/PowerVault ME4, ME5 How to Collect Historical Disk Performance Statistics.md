@@ -68,3 +68,5 @@ Administrators should specify a recent 24-hour window covering the time period t
 OEMR ME40XX and ME4XX, Dell EMC PowerVault ME4012, Dell EMC PowerVault ME4024, Dell EMC PowerVault ME4084, Dell EMC PowerVault ME412 Expansion, Dell EMC PowerVault ME424 Expansion, PowerVault ME5012, PowerVault ME5024, PowerVault ME5084
 
 https://tools.jet.su/emc_kb/000242285/
+
+За разъяснениями - disk-hist-statistics в cli guide.
