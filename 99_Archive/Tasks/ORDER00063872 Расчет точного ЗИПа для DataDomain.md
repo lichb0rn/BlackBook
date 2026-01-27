@@ -4,7 +4,7 @@ customer: "[[Тандер]]"
 system: "[[Data Domain]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-01-12
 summary: ЗИП посчитан
 ---
