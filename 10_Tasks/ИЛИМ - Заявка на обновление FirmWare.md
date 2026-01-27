@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-01-22
-summary:
+summary: Ждём выполнения ордеров
 ---
 ## Logs
 ```dataview
