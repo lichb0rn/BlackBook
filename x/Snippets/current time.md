@@ -1,2 +1,2 @@
-- [[<%tp.date.now("HH:mm")%>]] 
+- [[<% tp.date.now("HH:mm") %>]] 
 	- 

@@ -5,6 +5,6 @@
   "showPath": true,
   "showFileContent": false,
   "snippetPath": "x/Snippets",
-  "ignoreProperties": true,
+  "ignoreProperties": false,
   "templaterSupport": true
 }
