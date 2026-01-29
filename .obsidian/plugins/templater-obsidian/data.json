@@ -15,23 +15,23 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "3 Resources/MoC",
-      "template": "x/Templates/Template,Properties,Source.md"
+      "folder": "01_ MOC",
+      "template": "x/Templates/MOC.md"
     },
     {
-      "folder": "2 Areas/Logs/01 Daily",
+      "folder": "40_Logs/01 Daily",
       "template": "x/Templates/Daily Note.md"
     },
     {
-      "folder": "2 Areas/Logs/02 Weekly",
+      "folder": "40_Logs/02 Weekly",
       "template": "x/Templates/Weekly Review.md"
     },
     {
-      "folder": "2 Areas/Logs/03 Monthly",
+      "folder": "40_Logs/03 Monthly",
       "template": "x/Templates/Monthly Review.md"
     },
     {
-      "folder": "2 Areas/Logs/04 Yearly",
+      "folder": "40_Logs/05 Yearly",
       "template": "x/Templates/Yearly Review.md"
     }
   ],
