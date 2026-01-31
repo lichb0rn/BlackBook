@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[LexMechanica]]"
+  - "[[99_Archive/Old Vault/2 Areas/Web Development|Web Development]]"
 related: "[[tailwind]]"
 created: 2025-06-01
 ---
