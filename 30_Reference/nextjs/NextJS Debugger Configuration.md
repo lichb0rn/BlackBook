@@ -1,8 +1,10 @@
 ---
 created: 2025-11-16 21:03
 up:
-  - "[[JS NextJS Migration]]"
+  - "[[NextJS]]"
 related:
+  - "[[Jet Spares]]"
+  - "[[NodeJS]]"
 aliases:
 tags:
   - type/note

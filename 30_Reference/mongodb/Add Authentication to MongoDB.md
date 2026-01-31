@@ -1,7 +1,8 @@
 ---
 up:
   - "[[MongoDB]]"
-related: "[[Jet Spares Old Main]]"
+related:
+  - "[[Jet Spares]]"
 created: 2025-04-20
 ---
 Чтобы включить [[Аутентификация|аутентификацию]] на уже работающей в продуктиве [[MongoDB]]:
