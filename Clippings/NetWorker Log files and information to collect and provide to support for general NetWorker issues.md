@@ -1,12 +1,14 @@
 ---
 title: "NetWorker: Log files and information to collect and provide to support for general NetWorker issues"
-source: "https://tools.jet.su/emc_kb/000079239/"
+source: https://tools.jet.su/emc_kb/000079239/
 author:
   - "[[Dell US]]"
 published:
 created: 2026-02-02
 description:
 tags:
+up:
+  - "[[NetWorker]]"
 ---
 Article Number: 000079239
 
