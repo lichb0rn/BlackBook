@@ -8,3 +8,16 @@ area:
 up:
 ---
 ## Итерация 1
+```go
+func removeDuplicates(nums []int) int {
+    p := 0
+    for i := range len(nums) {
+        if nums[p] != nums[i] {
+            p += 1
+            nums[p] = nums[i]
+        }
+    }
+    return p + 1
+}
+```
+
