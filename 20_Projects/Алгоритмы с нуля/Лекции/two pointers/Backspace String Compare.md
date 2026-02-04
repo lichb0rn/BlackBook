@@ -7,5 +7,5 @@ related:
 area:
 up:
 ---
-
+- [ ] #task Решить задачу [[Backspace String Compare]] ⏳ 2026-02-04
 
