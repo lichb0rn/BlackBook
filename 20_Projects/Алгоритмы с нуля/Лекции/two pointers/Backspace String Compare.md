@@ -11,6 +11,34 @@ up:
 
 ## Итерация 1
 ```go
+func backspaceCompare(s string, t string) bool {
+    n := len(s) - 1
+    m := len(t) - 1
+
+    skip_s := 0
+    skip_t := 0
+
+    for n >= 0 && m >= 0 {
+        // ToDo: implement skip
+        // if # or skip_counter > 0
+        if s[n] == "#" {
+            skip_s += 1
+        }
+        n -= skip_s
+        
+        if t[m] == "#" {
+            skip_t += 1
+        }
+        m -= skip_t
 
 
+        if s[n] != s[m] {
+            return false
+        }
+
+        n -= 1
+        m -= 1
+    }
+    return n == m
+}
 ```
