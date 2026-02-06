@@ -7,7 +7,7 @@ related:
 area:
 up:
 ---
-- [ ] #task Решить задачу [[Backspace String Compare]] ⏳ 2026-02-04
+- [x] #task Решить задачу [[Backspace String Compare]] ⏳ 2026-02-04 ✅ 2026-02-06
 
 ## Итерация 1
 ```go
