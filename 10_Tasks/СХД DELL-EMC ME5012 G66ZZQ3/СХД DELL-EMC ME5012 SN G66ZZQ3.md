@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-01-19
-summary: Сделать ордер на анализ коммутаторов
+summary: Ждём результат по ордеру
 ---
 
 ## Описание

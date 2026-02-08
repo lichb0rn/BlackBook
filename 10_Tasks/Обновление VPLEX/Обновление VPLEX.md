@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-01-28
-summary: Подготовить план
+summary: Выписать пароли сертификатов
 ---
 ## Logs
 ```dataview
