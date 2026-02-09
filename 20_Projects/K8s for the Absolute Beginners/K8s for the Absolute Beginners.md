@@ -24,7 +24,7 @@ Lab LInk: https://learn.kodekloud.com/user/courses/udemy-labs-online-kubernetes-
 
 ### 03. Kubernetes Concepts
 - [x] 01. Pods.mp4
-- [ ] 02. Demo - Minikube.mp4
+- [x] 02. Demo - Minikube.mp4
 - [ ] 03. Demo - Pods.mp4
 
 ### 04. YAML Introduction
