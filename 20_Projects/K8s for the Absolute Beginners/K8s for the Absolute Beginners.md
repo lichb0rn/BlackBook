@@ -16,9 +16,9 @@ Lab LInk: https://learn.kodekloud.com/user/courses/udemy-labs-online-kubernetes-
 - [x] 03. Accessing the Lab.mp4
 
 ### 02. Kubernetes Overview
-- [ ] 01. Containers Overview.mp4
-- [ ] 02. Container Orchestration.mp4
-- [ ] 03. Kubernetes Architecture.mp4
+- [x] 01. Containers Overview.mp4
+- [x] 02. Container Orchestration.mp4
+- [x] 03. Kubernetes Architecture.mp4
 - [ ] 04. Docker-vs-ContainerD.mp4
 - [ ] 06. A Quick Reminder.mp4
 
