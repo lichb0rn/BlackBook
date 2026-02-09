@@ -4,10 +4,22 @@ customer: "[[ИЛИМ]]"
 system: "[[Vplex]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
+  - log
 created: 2026-01-28
-summary: Выписать пароли сертификатов
+summary: Обновление завершено
 ---
+# Summary
+- Влад Лосев не смог скачать микрокод, т.к. нет доступа. Пришлось ставить 6.2.1.0.0.519
+- В процессе получил ошибки:
+	- `Verify RecoverPoint cluster registrations.. ERROR`
+	- Ошибка VPLEX-54511
+	- Исправил `emc-internal ndu start --skip-recoverpoint-cluster-registration-check`
+- Ошибки Witness  при генерации сертификата:
+	- `Error during Cluster Witness Server Host Certificate configuration: CWS Permission denied`
+	- Ошибка VPLEX-54198
+	- Исправил настройкой NTP на обоих vplex и Witness
+
 ## Logs
 ```dataview
 TASK
