@@ -14,16 +14,20 @@ aliases:
 
 ## Каркас решения задач
  ```go
-func findMaxAverage(nums []int, k int) float64 {
+func minSubArrayLen(target int, nums []int) int {
     begin := 0
     windowState
+    result
 
     for end := range len(nums) {
+        windowState
         windowSize := end - begin + 1
 
         if // window condition {
+            result
+            windowState
             begin++ // shrink window
         }
-    }    
+    }     
 }
 ```
