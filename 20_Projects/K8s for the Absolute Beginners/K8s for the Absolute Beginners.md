@@ -28,7 +28,7 @@ Lab LInk: https://learn.kodekloud.com/user/courses/udemy-labs-online-kubernetes-
 - [x] 03. Demo - Pods.mp4
 
 ### 04. YAML Introduction
-- [ ] 01. Introduction to YAML.mp4
+- [x] 01. Introduction to YAML.mp4
 - [ ] 02. Introduction to Coding Exercises.mp4
 
 ### 05. Kubernetes Concepts - Pods, ReplicaSets, Deployments
