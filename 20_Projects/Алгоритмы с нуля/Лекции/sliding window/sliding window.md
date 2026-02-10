@@ -11,3 +11,19 @@ aliases:
   - скользящее окно
 ---
 ![[Pasted image 20260210082600.png]]
+
+## Каркас решения задач
+ ```go
+func findMaxAverage(nums []int, k int) float64 {
+    begin := 0
+    windowState
+
+    for end := range len(nums) {
+        windowSize := end - begin + 1
+
+        if // window condition {
+            begin++ // shrink window
+        }
+    }    
+}
+```
