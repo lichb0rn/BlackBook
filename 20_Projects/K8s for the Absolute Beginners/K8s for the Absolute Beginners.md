@@ -10,6 +10,9 @@ created: 2026-02-09
 summary:
 ---
 Lab LInk: https://learn.kodekloud.com/user/courses/udemy-labs-online-kubernetes-lab-for-beginners-hands-on/module/bdce9f5e-32e6-4727-ad5c-b9f93f69e093/lesson/6a0b8e15-a546-43b2-9629-31a9d508b3bc
+
+https://github.com/mmumshad/kubernetes-training-answers
+
 ### 01. Introduction
 - [x] 01. Introduction.mp4
 - [x] 02. The Kubernetes Course Series.mp4
@@ -29,7 +32,7 @@ Lab LInk: https://learn.kodekloud.com/user/courses/udemy-labs-online-kubernetes-
 
 ### 04. YAML Introduction
 - [x] 01. Introduction to YAML.mp4
-- [ ] 02. Introduction to Coding Exercises.mp4
+- [x] 02. Introduction to Coding Exercises.mp4
 
 ### 05. Kubernetes Concepts - Pods, ReplicaSets, Deployments
 - [ ] 01. Pods with YAML.mp4
