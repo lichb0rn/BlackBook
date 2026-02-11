@@ -35,7 +35,7 @@ https://github.com/mmumshad/kubernetes-training-answers
 - [x] 02. Introduction to Coding Exercises.mp4
 
 ### 05. Kubernetes Concepts - Pods, ReplicaSets, Deployments
-- [ ] 01. Pods with YAML.mp4
+- [x] 01. Pods with YAML.mp4
 - [ ] 02. Demo - Pods with YAML.mp4
 - [ ] 03. Tips & Tricks - Developing Kubernetes Manifest files with Visual Studio Code.mp4
 - [ ] 06. Solution  Pods with YAML Lab.mp4
