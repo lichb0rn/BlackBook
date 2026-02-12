@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-02-11
-summary:
+summary: Ждём доставку диска
 ---
 ## Logs
 ```dataview
