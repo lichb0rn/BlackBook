@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-01-28
-summary: Домен сменили, мониторим
+summary: Закрыть заявку
 ---
 ## Logs
 ```dataview

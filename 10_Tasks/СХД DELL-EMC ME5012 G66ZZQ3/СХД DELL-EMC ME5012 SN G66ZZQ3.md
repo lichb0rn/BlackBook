@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-01-19
-summary: Ждём результат по ордеру
+summary: Запросить закрытие
 ---
 
 ## Описание

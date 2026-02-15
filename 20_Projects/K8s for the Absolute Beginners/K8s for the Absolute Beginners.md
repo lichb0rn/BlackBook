@@ -7,7 +7,7 @@ tags:
   - "#type/project"
   - "#status/active"
 created: 2026-02-09
-summary:
+summary: Пройти следующий модуль
 ---
 Lab LInk: https://learn.kodekloud.com/user/courses/udemy-labs-online-kubernetes-lab-for-beginners-hands-on/module/bdce9f5e-32e6-4727-ad5c-b9f93f69e093/lesson/6a0b8e15-a546-43b2-9629-31a9d508b3bc
 
