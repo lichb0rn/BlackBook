@@ -40,7 +40,7 @@ https://github.com/mmumshad/kubernetes-training-answers
 - [x] 03. Tips & Tricks - Developing Kubernetes Manifest files with Visual Studio Code.mp4
 - [x] 06. Solution  Pods with YAML Lab.mp4
 - [x] 07. Replication Controllers and ReplicaSets.mp4
-- [ ] 08. Demo - ReplicaSets.mp4
+- [x] 08. Demo - ReplicaSets.mp4
 - [ ] 10. Solution - ReplicaSets.mp4
 - [ ] 11. Deployments.mp4
 - [ ] 12. Demo - Deployments.mp4
