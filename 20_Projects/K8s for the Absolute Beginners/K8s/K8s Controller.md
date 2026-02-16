@@ -90,3 +90,18 @@ kubectl get replicaset
 
 ![[Pasted image 20260216172638.png]]
 
+## Scale
+
+- Исправить `replicas` в файле и выполнить:
+```sh
+kubectl replace -f replicaset.yaml
+```
+
+- Обновить из cli:
+```sh
+kubectl scale --replicas=6 -f replicaset.yaml
+```
+
+```sh
+kubectl scale --replicas=6 replicaset myapp-replicaset
+```
