@@ -4,10 +4,24 @@ customer: "[[ИЛИМ]]"
 system: "[[PowerVault ME5]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-01-19
-summary: Запросить закрытие
+summary: Определить причину не удалось
 ---
+## Результат
+В рамках заявки не удалось определить точную причину возникновения проблемы.
+Со стороны массива всё в норме, в SAN ошибок нет.
+В случае повторения ситуации рекомендуется открыть заявку в момент появления. 
+Снять supportsave/tech-support с коммутаторов, а с массива выполнить команды:
+
+show controller-statistics
+show disk-group-statistics
+
+Если проблема появилась в пределах нескольких часов:
+query metrics count all system.read-avg-response-time 
+
+Дальше уже только так:
+query metrics database historical time-range "start 2026-02-10 10:00 AM end 2026-02-10 11:00 PM" system.read-avg-response-time
 
 ## Описание
 >[!quote]

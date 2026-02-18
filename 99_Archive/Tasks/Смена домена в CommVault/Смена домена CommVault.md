@@ -4,7 +4,7 @@ customer: "[[Пихта Банк]]"
 system: "[[Commvault]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-01-28
 summary: Закрыть заявку
 ---

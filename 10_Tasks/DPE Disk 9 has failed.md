@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-02-12
-summary: Ждём доставку диска
+summary: Диск заменён, идёт ребилд
 ---
 ## Logs
 ```dataview
