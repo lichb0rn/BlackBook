@@ -4,7 +4,7 @@ customer: "[[Сервис Телеком]]"
 system: "[[Compute Blade]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-02-13
 summary:
 ---

@@ -4,7 +4,7 @@ customer:
 system: "[[Commvault]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-02-16
 summary:
 ---
