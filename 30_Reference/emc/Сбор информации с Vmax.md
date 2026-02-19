@@ -11,7 +11,7 @@ up:
 Залогиниться на SP под пользователем admin (пароль по умолчанию EMC2Admin), домен localhost
 
 Зайти в O:\utilo, создать каталог frd (если его еще нет)
-запустить sp_backup_restore.exe, нажатьть галку Enable Backup, затем кнопку Backup,
+запустить sp_backup_restore.exe, нажать галку Enable Backup, затем кнопку Backup,
 выбрать Bootstrap Backup.
 
 
