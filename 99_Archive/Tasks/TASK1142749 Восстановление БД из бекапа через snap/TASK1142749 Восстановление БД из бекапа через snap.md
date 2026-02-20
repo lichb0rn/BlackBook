@@ -6,8 +6,8 @@ aliases:
   - TASK1142749
 tags:
   - type/incident
-  - status/active
-summary: Ждём результат по скорости бэкапов
+  - status/archived
+summary: Вендор подтвердил принципиальную невозможность block level backup
 task: TASK1142749
 ---
 ## Итог
