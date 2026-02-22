@@ -1,0 +1,7 @@
+{
+  "maxNewPerDay": 5,
+  "repeatItems": true,
+  "dataLocation": "In Vault Folder",
+  "locationPath": "",
+  "algorithm": "SM2"
+}
