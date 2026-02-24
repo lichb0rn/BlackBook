@@ -19,3 +19,8 @@ kuebctl cluster-info
 ```
 kuebctl get nodes
 ```
+
+- Получить список всех объектов
+```sh
+kubectl get all
+```
