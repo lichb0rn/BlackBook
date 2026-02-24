@@ -4,7 +4,7 @@ customer: "[[ИЛИМ]]"
 system: "[[EMC VNXe3200]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-02-12
 summary: Диск заменён, идёт ребилд
 ---
