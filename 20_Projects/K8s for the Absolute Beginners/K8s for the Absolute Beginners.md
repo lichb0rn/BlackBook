@@ -44,7 +44,7 @@ https://github.com/mmumshad/kubernetes-training-answers
 - [x] 10. Solution - ReplicaSets.mp4
 - [x] 11. Deployments.mp4
 - [x] 12. Demo - Deployments.mp4
-- [ ] 14. Solution - Deployments.mp4
+- [x] 14. Solution - Deployments.mp4
 - [ ] 15. Deployments - Update and Rollback.mp4
 - [ ] 16. Demo - Deployments - Update and Rollback.mp4
 - [ ] 18. Solution - Rolling Updates and Rollbacks.mp4
