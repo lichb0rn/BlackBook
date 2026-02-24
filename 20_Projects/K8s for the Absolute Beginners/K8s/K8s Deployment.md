@@ -11,3 +11,5 @@ up:
 Deployment позволяет обновлять приложение через rolling upgrade, откатывать изменения.
 
 ![[Pasted image 20260224170253.png]] 
+
+![[Pasted image 20260224173146.png]] 
