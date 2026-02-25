@@ -18,11 +18,30 @@
       "hiddenFileTags": [],
       "periodicNotesFolder": "",
       "propertyKeys": []
+    },
+    {
+      "id": "mm1gh40l-e3zik6",
+      "name": "BB",
+      "fileVisibility": "supported",
+      "hiddenFolders": [],
+      "hiddenTags": [],
+      "hiddenFileNames": [],
+      "hiddenFileTags": [],
+      "hiddenFileProperties": [],
+      "navigationBanner": null,
+      "periodicNotesFolder": "",
+      "shortcuts": [
+        {
+          "type": "note",
+          "path": "Home.md"
+        }
+      ]
     }
   ],
+  "vaultProfile": "mm1gh40l-e3zik6",
   "vaultTitle": "navigation",
   "syncModes": {
-    "vaultProfile": "local",
+    "vaultProfile": "synced",
     "folderSortOrder": "synced",
     "tagSortOrder": "local",
     "propertySortOrder": "synced",
@@ -61,9 +80,9 @@
   "useFloatingToolbars": true,
   "interfaceIcons": {},
   "colorIconOnly": false,
-  "dateFormat": "MMM D, YYYY",
+  "dateFormat": "YYYY-MM-DD",
   "timeFormat": "h:mm a",
-  "calendarTemplateFolder": "",
+  "calendarTemplateFolder": "x/Templates",
   "externalIconProviders": {},
   "checkForUpdatesOnStart": true,
   "confirmBeforeDelete": true,
@@ -347,6 +366,11 @@
   "customVaultName": "",
   "pinnedNotes": {
     "99_Archive/Projects/Greenlight/Greenlight.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "10_Tasks/ИЛИМ ПВ Q12026/ИЛИМ ПВ Q12026.md": {
       "folder": true,
       "tag": false,
       "property": false
