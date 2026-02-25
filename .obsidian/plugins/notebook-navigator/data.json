@@ -35,7 +35,8 @@
           "type": "note",
           "path": "Home.md"
         }
-      ]
+      ],
+      "propertyKeys": []
     }
   ],
   "vaultProfile": "mm1gh40l-e3zik6",
@@ -62,6 +63,7 @@
     "compactItemHeightScaleText": "local",
     "uiScale": "local"
   },
+  "createNewNotesInNewTab": false,
   "autoRevealActiveFile": true,
   "autoRevealShortestPath": true,
   "autoRevealIgnoreRightSidebar": true,
@@ -83,9 +85,11 @@
   "dateFormat": "YYYY-MM-DD",
   "timeFormat": "h:mm a",
   "calendarTemplateFolder": "x/Templates",
+  "confirmBeforeDelete": true,
+  "deleteAttachments": "ask",
+  "moveFileConflicts": "ask",
   "externalIconProviders": {},
   "checkForUpdatesOnStart": true,
-  "confirmBeforeDelete": true,
   "pinNavigationBanner": true,
   "showNoteCount": true,
   "separateNoteCounts": true,
@@ -129,7 +133,6 @@
   "inheritPropertyColors": true,
   "propertySortOrder": "alpha-asc",
   "showAllPropertiesFolder": true,
-  "propertyFields": "",
   "defaultListMode": "standard",
   "defaultFolderSort": "modified-desc",
   "propertySortKey": "",
@@ -418,11 +421,7 @@
     "#404040"
   ],
   "lastShownVersion": "2.4.2",
-  "lastAnnouncedRelease": "",
   "rootFolderOrder": [],
   "rootTagOrder": [],
-  "rootPropertyOrder": [],
-  "createNewNotesInNewTab": false,
-  "deleteAttachments": "ask",
-  "moveFileConflicts": "ask"
+  "rootPropertyOrder": []
 }
