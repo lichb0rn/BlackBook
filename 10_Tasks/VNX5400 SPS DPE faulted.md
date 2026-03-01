@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-02-27
-summary:
+summary: Заменить память и батарею
 ---
 ## Батарея
 **Новая** 078-000-092-07, Серийный номер ACPF2132500225
