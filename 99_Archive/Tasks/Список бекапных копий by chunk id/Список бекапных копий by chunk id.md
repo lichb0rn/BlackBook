@@ -4,7 +4,7 @@ customer: "[[Арована Капитал]]"
 system: "[[Commvault]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-02-04
 summary:
 ---
