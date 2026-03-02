@@ -119,10 +119,9 @@
   "folderNoteName": "",
   "folderNoteNamePattern": "",
   "folderNoteTemplate": null,
-  "enableFolderNoteLinks": true,
+  "openFolderNotesInNewTab": false,
   "hideFolderNoteInList": true,
   "pinCreatedFolderNote": false,
-  "openFolderNotesInNewTab": false,
   "showTags": true,
   "showTagIcons": true,
   "showAllTagsFolder": true,
@@ -170,7 +169,6 @@
   "skipHeadingsInPreview": true,
   "skipCodeBlocksInPreview": true,
   "stripHtmlInPreview": true,
-  "stripLatexInPreview": true,
   "previewRows": 2,
   "previewProperties": [],
   "showFeatureImage": true,
@@ -422,7 +420,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "2.4.3",
+  "lastShownVersion": "2.4.2",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []
