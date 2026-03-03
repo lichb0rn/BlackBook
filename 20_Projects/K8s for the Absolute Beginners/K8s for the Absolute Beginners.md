@@ -47,7 +47,7 @@ https://github.com/mmumshad/kubernetes-training-answers
 - [x] 14. Solution - Deployments.mp4
 - [x] 15. Deployments - Update and Rollback.mp4
 - [x] 16. Demo - Deployments - Update and Rollback.mp4
-- [ ] 18. Solution - Rolling Updates and Rollbacks.mp4
+- [x] 18. Solution - Rolling Updates and Rollbacks.mp4
 
 ### 06. Networking in Kubernetes
 - [ ] 01. Basics of Networking in Kubernetes.mp4
