@@ -50,7 +50,7 @@ https://github.com/mmumshad/kubernetes-training-answers
 - [x] 18. Solution - Rolling Updates and Rollbacks.mp4
 
 ### 06. Networking in Kubernetes
-- [ ] 01. Basics of Networking in Kubernetes.mp4
+- [x] 01. Basics of Networking in Kubernetes.mp4
 
 ### 07. Services
 - [ ] 01. Services - NodePort.mp4
