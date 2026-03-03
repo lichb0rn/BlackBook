@@ -10,6 +10,9 @@ aliases:
   - обход в глубину
   - depth-first search
 ---
+
+## Рекурсивный обход в глубину
+
 ```python
 def dfs(node):
 	if not node:
@@ -23,4 +26,16 @@ def dfs(node):
 	# 3. post-order
 	# print(node.val)
 	return
+```
+
+## Обход в глубину на стеке
+
+```python
+def dfs(node):
+	stack <- node
+	while stack:
+		node <- stack
+		stack <- node.right
+		stack <- node.left
+		print(node.val)
 ```
