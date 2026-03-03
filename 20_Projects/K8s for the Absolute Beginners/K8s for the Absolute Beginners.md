@@ -53,7 +53,7 @@ https://github.com/mmumshad/kubernetes-training-answers
 - [x] 01. Basics of Networking in Kubernetes.mp4
 
 ### 07. Services
-- [ ] 01. Services - NodePort.mp4
+- [x] 01. Services - NodePort.mp4
 - [ ] 02. Demo - Services.mp4
 - [ ] 03. Services - ClusterIP.mp4
 - [ ] 04. Services - Load Balancer.mp4
