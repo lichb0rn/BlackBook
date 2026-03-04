@@ -55,8 +55,8 @@ https://github.com/mmumshad/kubernetes-training-answers
 ### 07. Services
 - [x] 01. Services - NodePort.mp4
 - [x] 02. Demo - Services.mp4
-- [ ] 03. Services - ClusterIP.mp4
-- [ ] 04. Services - Load Balancer.mp4
+- [x] 03. Services - ClusterIP.mp4
+- [x] 04. Services - Load Balancer.mp4
 - [ ] 06. Solution - Services.mp4
 
 ### 08. Microservices Architecture
