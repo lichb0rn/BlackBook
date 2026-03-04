@@ -386,7 +386,9 @@
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {},
+  "folderSortOverrides": {
+    "01_ MOC": "title-asc"
+  },
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
   "tagIcons": {},
