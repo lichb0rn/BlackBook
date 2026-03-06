@@ -1,9 +1,14 @@
 ---
-uuid: 20230829152533
-created: 2023-08-29T15:25:33
+created: 2026-03-06
 alias:
+tags:
+  - type/note
+source:
+related:
+area:
+up:
+  - "[[Linux]]"
 ---
-
 # [[pcs]]
 
 Проверить статус кластера можно командой:
@@ -54,12 +59,3 @@ The resource constraint that has been applied by putting a node in standby can b
 ```
 
 Removing the resource constraint **does not necessarily mean that a resource that was  previously running on a node before it was put in standby mode migrates back**.
-
-
----
-
-## 📇 Additional Metadata
-- 🛠️ Status::  #🌱 
-- 🗂 Type:: #type/note
-- ℹ️ Source:: 
-- 🏷️ Tags:: [[High-availability]]

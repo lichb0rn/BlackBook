@@ -66,7 +66,7 @@ https://github.com/mmumshad/kubernetes-training-answers
 - [x] 04. Demo - Deploying Microservices Application on Kubernetes with Deployments.mp4
 
 ### 09. Kubernetes on Cloud
-- [ ] 01. Kubernetes on Cloud - Introduction.mp4
+- [x] 01. Kubernetes on Cloud - Introduction.mp4
 - [ ] 02. Kubernetes on GCP (GKE).mp4
 - [ ] 04. Kubernetes on AWS (EKS).mp4
 - [ ] 05. Kubernetes on Azure (AKS).mp4

@@ -5,7 +5,7 @@ related: "[[Brocade]]"
 aliases:
 tags:
   - "#type/project"
-  - "#status/on-hold"
+  - status/paused
 summary:
 ---
 ## Logs or Sprints
