@@ -67,15 +67,15 @@ https://github.com/mmumshad/kubernetes-training-answers
 
 ### 09. Kubernetes on Cloud
 - [x] 01. Kubernetes on Cloud - Introduction.mp4
-- [ ] 02. Kubernetes on GCP (GKE).mp4
-- [ ] 04. Kubernetes on AWS (EKS).mp4
-- [ ] 05. Kubernetes on Azure (AKS).mp4
+- [x] 02. Kubernetes on GCP (GKE).mp4
+- [x] 04. Kubernetes on AWS (EKS).mp4
+- [x] 05. Kubernetes on Azure (AKS).mp4
 
 ### 10. Conclusion
-- [ ] 01. Conclusion.mp4
+- [x] 01. Conclusion.mp4
 
 ### 11. Appendix - Setup Multi Node cluster using Kubeadm
-- [ ] 02. Kubernetes Setup - Kubeadm.mp4
+- [x] 02. Kubernetes Setup - Kubeadm.mp4
 - [ ] 03. Demo - Setup Lab - VirtualBox.mp4
 - [ ] 04. Demo - Provision cluster using Kubeadm.mp4
 - [ ] 05. Kubernetes Setup - Introduction and Minikube.mp4

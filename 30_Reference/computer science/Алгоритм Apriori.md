@@ -1,9 +1,13 @@
 ---
-uuid: 20230701170615
-created: 2023-07-01T17:06:15
+created: 2026-03-06
 alias: apriori algorithm
+tags:
+  - type/note
+source: "[[Web Data Mining with Python]]"
+related:
+  - "[[Data Mining]]"
+up:
 ---
-
 # [[Алгоритм Apriori]]
 
 **Алгоритм Apriori** ищет [[Ассоциативные правила|ассоциативные правила]] и применяется по отношению к базам данных, содержащим огромное количество транзакций.
@@ -24,10 +28,3 @@ alias: apriori algorithm
 - Лифт
 	- Lift(A -> B) refers to the increase in the ratio of sale of B when A is sold. Lift(A –> B) can be calculated by dividing Confidence(A -> B) divided by Support(B).
 	- $$Lift(x_1 \cup x_2)=\frac{conf(x1 \cup x_2)}{supp(x_2)}$$
----
-
-## 📇 Additional Metadata
-- 🛠️ Status:: #🌱
-- 🗂 Type:: #type/note
-- ℹ️ Source::  [[Web Data Mining with Python]]
--  🏷️ Tags:: [[Data Mining]]
