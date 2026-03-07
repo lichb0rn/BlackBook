@@ -1,10 +1,12 @@
 ---
 up:
-  - https://www.youtube.com/watch?v=LZ_FFvr1DZE
+  - "[[Design]]"
 related: "[[UX UI]]"
 created: 2025-05-03
-tags: 
+tags:
+  - type/note
 in:
+source: https://www.youtube.com/watch?v=LZ_FFvr1DZE
 ---
 ## Основные идеи
 
