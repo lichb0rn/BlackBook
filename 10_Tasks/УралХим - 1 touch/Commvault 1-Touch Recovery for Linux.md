@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-02-27
-summary:
+summary: Договорились попробовать ещё раз после обновления до 11.40
 ---
 https://medium.com/@sahlananzehra/restoring-a-physical-server-with-commvault-1-touch-recovery-07a48938ffe0
 
