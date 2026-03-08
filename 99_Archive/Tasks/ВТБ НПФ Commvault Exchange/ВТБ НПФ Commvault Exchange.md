@@ -4,10 +4,13 @@ customer: "[[ВТБ НПФ]]"
 system: "[[Commvault]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-02-27
 summary:
 ---
+## Summary
+Проблема оказалась на стороне МА. Заказчик исправил аппаратную часть и проблема ушла.
+
 Наблюдается проблема с индексами:
 ```
 Failure Reason: ERROR CODE [23:108]: ArchiveIndex failed on MediaAgent [lg-ma] - Index files are missing. Job could have earlier run on a different MediaAgent possibly due to a failover.  

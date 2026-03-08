@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-03-04
-summary:
+summary: Заменить диск на КЗ
 ---
 Старый диск: 005050550, 9XG7WVFR
 
