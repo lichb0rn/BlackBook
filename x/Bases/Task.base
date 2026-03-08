@@ -33,16 +33,20 @@ views:
       and:
         - up.contains(this.file.name)
         - or:
-            - type.contains("type/meeting")
+            - file.tags.contains("type/meeting")
     order:
       - file.name
       - summary
     sort:
+      - property: file.name
+        direction: ASC
+      - property: summary
+        direction: ASC
       - property: created
         direction: DESC
     rowHeight: tall
     columnSize:
-      file.name: 256
+      file.name: 706
   - type: table
     name: Child Notes
     filters:
