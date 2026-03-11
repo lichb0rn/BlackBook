@@ -9,17 +9,7 @@ tags:
 created: <% tp.date.now("YYYY-MM-DD") %>
 summary:
 ---
-## Logs
-```dataview
-TASK
-WHERE icontains(text, this.file.name)
-AND icontains(text, "#type/log")
-GROUP BY file.name as filename
-SORT filename DESC
-```
 
-## Work Sessions
-![[Project.base#Work Sessions / Meetings]]
 
 ## Child Notes
 ![[Project.base#Child Notes]]
