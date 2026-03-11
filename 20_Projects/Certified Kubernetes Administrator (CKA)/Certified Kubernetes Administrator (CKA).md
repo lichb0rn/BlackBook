@@ -24,8 +24,8 @@ summary:
 - [x] 17 - Kube-API Server.mp4
 - [x] 18 - Kube Controller Manager.mp4
 - [x] 19 - Kube Scheduler.mp4
-- [ ] 20 - Kubelet.mp4
-- [ ] 21 - Kube Proxy.mp4
+- [x] 20 - Kubelet.mp4
+- [x] 21 - Kube Proxy.mp4
 - [ ] 22 - Pods.mp4
 - [ ] 23 - Pods with YAML.mp4
 - [ ] 24 - Demo - Pods with YAML.mp4
