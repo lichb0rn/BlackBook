@@ -15,7 +15,7 @@ summary:
 - [x] 5 - The Kubernetes Trilogy.mp4
 
 ### 2 - Core Concepts
-- [ ] 9 - Core Concepts - Section Introduction.mp4
+- [x] 9 - Core Concepts - Section Introduction.mp4
 - [ ] 11 - Cluster Architecture.mp4
 - [ ] 12 - Docker-vs-ContainerD.mp4
 - [ ] 13 - A note on Docker deprecation.mp4
