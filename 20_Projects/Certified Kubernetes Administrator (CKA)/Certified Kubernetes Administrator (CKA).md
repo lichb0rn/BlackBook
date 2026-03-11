@@ -27,7 +27,7 @@ summary:
 - [x] 20 - Kubelet.mp4
 - [x] 21 - Kube Proxy.mp4
 - [x] 22 - Pods.mp4
-- [ ] 23 - Pods with YAML.mp4
+- [x] 23 - Pods with YAML.mp4
 - [ ] 24 - Demo - Pods with YAML.mp4
 - [ ] 25 - Practice Test Introduction.mp4
 - [ ] 26 - Demo - Accessing Labs.mp4
