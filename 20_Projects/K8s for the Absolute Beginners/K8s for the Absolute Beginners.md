@@ -78,5 +78,5 @@ https://github.com/mmumshad/kubernetes-training-answers
 - [x] 02. Kubernetes Setup - Kubeadm.mp4
 - [x] 03. Demo - Setup Lab - VirtualBox.mp4
 - [x] 04. Demo - Provision cluster using Kubeadm.mp4
-- [ ] 05. Kubernetes Setup - Introduction and Minikube.mp4
-- [ ] 07. Bonus Lecture Kubernetes Series of Courses.mp4
+- [x] 05. Kubernetes Setup - Introduction and Minikube.mp4
+- [x] 07. Bonus Lecture Kubernetes Series of Courses.mp4
