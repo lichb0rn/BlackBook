@@ -22,8 +22,8 @@ summary:
 - [x] 14 - ETCD For Beginners.mp4
 - [x] 15 - ETCD in Kubernetes.mp4
 - [x] 17 - Kube-API Server.mp4
-- [ ] 18 - Kube Controller Manager.mp4
-- [ ] 19 - Kube Scheduler.mp4
+- [x] 18 - Kube Controller Manager.mp4
+- [x] 19 - Kube Scheduler.mp4
 - [ ] 20 - Kubelet.mp4
 - [ ] 21 - Kube Proxy.mp4
 - [ ] 22 - Pods.mp4
