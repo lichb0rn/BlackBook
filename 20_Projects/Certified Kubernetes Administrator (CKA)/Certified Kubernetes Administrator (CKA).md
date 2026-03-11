@@ -16,9 +16,9 @@ summary:
 
 ### 2 - Core Concepts
 - [x] 9 - Core Concepts - Section Introduction.mp4
-- [ ] 11 - Cluster Architecture.mp4
-- [ ] 12 - Docker-vs-ContainerD.mp4
-- [ ] 13 - A note on Docker deprecation.mp4
+- [x] 11 - Cluster Architecture.mp4
+- [x] 12 - Docker-vs-ContainerD.mp4
+- [x] 13 - A note on Docker deprecation.mp4
 - [ ] 14 - ETCD For Beginners.mp4
 - [ ] 15 - ETCD in Kubernetes.mp4
 - [ ] 17 - Kube-API Server.mp4
