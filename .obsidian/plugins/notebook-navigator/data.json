@@ -459,6 +459,11 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "20_Projects/Certified Kubernetes Administrator (CKA)/Certified Kubernetes Administrator (CKA).md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},
