@@ -8,7 +8,7 @@ tags:
 created: 2026-02-27
 summary: Заменить память и батарею
 ---
-- [ ] #task Вернуть запчасти TASK1269744 EMC VNX 5400, CKM00144602394 BBU + mem DIMM #7 DIMM_ECC Rank1 - SP A [[VNX5400 SPS DPE faulted]]
+- [x] #task Вернуть запчасти TASK1269744 EMC VNX 5400, CKM00144602394 BBU + mem DIMM #7 DIMM_ECC Rank1 - SP A [[VNX5400 SPS DPE faulted]] ✅ 2026-03-12
 
 ## Батарея
 **Новая** 078-000-092-07, Серийный номер ACPF2132500225
