@@ -11,6 +11,11 @@ summary:
 Старый диск
 Part Number 005053153, Serial Number X110A01FFQHG
 
+Новый диск
+Major Express 1999014887
+
+Артикул 005053364,  Серийный номер 06G516KZ
+
 ## Logs
 ```dataview
 TASK
