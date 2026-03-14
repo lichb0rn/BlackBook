@@ -7,7 +7,7 @@ tags:
 
 # [[Learn Docker and Kubernetes]]
 
-Related to [[Docker]], [[Kubernetes]]
+Related to [[Docker]], [[MOC - Kubernetes]]
 
 ---
 

@@ -9,12 +9,12 @@ tags:
 # Maps of Content
 
 ## Философия
-[[10 Philosophy]]
+[[MOC - Philosophy]]
 
 ## IT and Computer Science
 [[10 Computer Science]]
 [[10 Programming]]
-[[20 Software Architecture]]
+[[MOC - Software Architecture]]
 ```dataview
 TABLE WITHOUT ID
  	file.link as Map

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[10 Software Development]]"
+  - "[[MOC - Software Development]]"
 related:
 aliases:
   - Go

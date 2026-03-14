@@ -1,10 +1,10 @@
 ---
 up:
   - "[[Domain-Driven Design]]"
-related: "[[Golang]]"
+related: "[[MOC - Golang]]"
 created: 2025-05-25
-tags: 
-in: 
+tags:
+in:
 github: https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
 ---
 Wild Workouts is an **example Go DDD** project that we created to show how to build Go applications that are **easy to develop, maintain, and fun to work with, especially in the long term!**

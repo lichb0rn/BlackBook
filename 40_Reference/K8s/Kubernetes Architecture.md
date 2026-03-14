@@ -6,7 +6,7 @@ source:
 related:
 area:
 up:
-  - "[[Kubernetes]]"
+  - "[[MOC - Kubernetes]]"
 ---
 ## Ноды
 - worker node

@@ -1,7 +1,7 @@
 ---
 tags:
   - type/note
-domain: "[[Golang]]"
+domain: "[[MOC - Golang]]"
 topics: "[[SQL]]"
 sources: "[[Let's Go Further]]"
 ---
@@ -10,7 +10,7 @@ sources: "[[Let's Go Further]]"
 - 2 вида соединений
 	- активные (in-use)
 	- неактивные (idle)
-- при выполнении запроса (sql statement) [[Golang]] проверяет сначала idle
+- при выполнении запроса (sql statement) [[MOC - Golang]] проверяет сначала idle
 	- если свободных нет, то создаётся новое соединение
 - все проблемные соединения будут опробованы дважды прежде, чем удалены из пула
 

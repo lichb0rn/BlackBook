@@ -1,6 +1,6 @@
 ---
 task: TASK1269744
-customer: "[[ИЛИМ]]"
+customer: "[[MOC - ИЛИМ]]"
 system: "[[EMC VNX]]"
 tags:
   - type/incident

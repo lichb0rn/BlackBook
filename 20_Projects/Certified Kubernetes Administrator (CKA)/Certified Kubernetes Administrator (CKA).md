@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Kubernetes]]"
+  - "[[MOC - Kubernetes]]"
 related:
 aliases:
 tags:

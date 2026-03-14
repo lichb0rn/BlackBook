@@ -1,7 +1,7 @@
 ---
 created: 2025-12-10 14:32
 up:
-  - "[[ИЛИМ]]"
+  - "[[MOC - ИЛИМ]]"
 related:
 aliases:
   - TASK1193045

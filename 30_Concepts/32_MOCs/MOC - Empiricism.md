@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[10 Philosophy]]"
+  - "[[MOC - Philosophy]]"
 related: "[[Скептицизм]]"
 created: 2025-04-20
-in: 
+in:
 ---
 [[Давид Юм]]

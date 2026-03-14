@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Golang]]"
+  - "[[MOC - Golang]]"
 related: "[[Concurrency]]"
 created: 2025-05-08
 ---
 Допустим нам нужно написать функцию, которая будет вызывать две сервиса, собирать от них данные и отправлять в третий. Весь процесс должен занять не более 50мс.
 
-Пример на [[Golang]]:
+Пример на [[MOC - Golang]]:
 ```go
 func GatherAndProcess(ctx context.Context, data Input) (COut, error) {
 	ctx, cancel := context.WithTimeout(ctx, 50*time.Millisecond)

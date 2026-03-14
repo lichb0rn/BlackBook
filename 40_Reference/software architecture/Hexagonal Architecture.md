@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[20 Software Architecture]]"
+  - "[[MOC - Software Architecture]]"
 related: "[[Clean Architecture]]"
 created: 2025-05-21
 aliases:

@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Golang]]"
+  - "[[MOC - Golang]]"
 related: "[[Observability]]"
 created: 2025-05-22
 ---
-Можно экспортировать полезные метрики в [[Golang]]:
+Можно экспортировать полезные метрики в [[MOC - Golang]]:
 
 ```go
 expvar.NewString("version").Set(version)

@@ -19,7 +19,7 @@ fmt.Println(s) // [1 2 3]
 > It is a compile-time error if you forget to assign the value returned from append.
 
 >[!note]
-> [[Golang]] is a **call-by-value** language. Every time you pass a parameter to a function, Go makes a copy of the value that’s passed in. Passing a slice to the append function actually passes a copy of the slice to the function.
+> [[MOC - Golang]] is a **call-by-value** language. Every time you pass a parameter to a function, Go makes a copy of the value that’s passed in. Passing a slice to the append function actually passes a copy of the slice to the function.
 
 ## Capacity
-Слайсы в [[Golang]] - аналог [[Dynamic Array|динамических массивов]]
+Слайсы в [[MOC - Golang]] - аналог [[Dynamic Array|динамических массивов]]

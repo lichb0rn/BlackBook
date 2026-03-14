@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Golang]]"
+  - "[[MOC - Golang]]"
 related: "[[Web Development]]"
 created: 2025-05-29
 tags:

@@ -6,7 +6,7 @@ source:
 related:
 area:
 up:
-  - "[[Kubernetes]]"
+  - "[[MOC - Kubernetes]]"
 ---
 Deployment позволяет обновлять приложение через rolling upgrade, откатывать изменения.
 

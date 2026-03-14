@@ -4,7 +4,7 @@ tags:
   - type/note
 source: "[[Let's Go Further]]"
 related:
-area: "[[10 Software Development]]"
+area: "[[MOC - Software Development]]"
 project: "[[Greenlight]]"
 ---
 # Makefile

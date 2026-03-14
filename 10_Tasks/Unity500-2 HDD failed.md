@@ -1,6 +1,6 @@
 ---
 task: TASK1258482
-customer: "[[ИЛИМ]]"
+customer: "[[MOC - ИЛИМ]]"
 system: "[[EMC Unity]]"
 tags:
   - type/incident

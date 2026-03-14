@@ -1,4 +1,4 @@
-[[00 Maps]]
+[[MOC - Index]]
 
 [[Vault]]
 

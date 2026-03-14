@@ -3,7 +3,7 @@ created: 2025-12-14 14:10
 up:
   - "[[Web Development]]"
 related:
-  - "[[Golang]]"
+  - "[[MOC - Golang]]"
 aliases:
   - Go web development
 tags:

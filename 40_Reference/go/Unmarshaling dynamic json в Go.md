@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Golang]]"
+  - "[[MOC - Golang]]"
 related: "[[json]]"
 created: 2025-05-15
 in:

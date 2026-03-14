@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[10 Software Development]]"
+  - "[[MOC - Software Development]]"
 related:
 created: 2025-05-05
 tags:

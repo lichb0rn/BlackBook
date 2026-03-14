@@ -1,6 +1,6 @@
 ---
 task: TASK1232172
-customer: "[[ИЛИМ]]"
+customer: "[[MOC - ИЛИМ]]"
 system:
 tags:
   - type/incident

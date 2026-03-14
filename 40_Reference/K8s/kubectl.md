@@ -6,7 +6,7 @@ source:
 related:
 area:
 up:
-  - "[[Kubernetes]]"
+  - "[[MOC - Kubernetes]]"
 ---
 ```
 kubectl run hello-minicube

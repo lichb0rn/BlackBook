@@ -1,6 +1,6 @@
 ---
 task: TASK1239203
-customer: "[[ИЛИМ]]"
+customer: "[[MOC - ИЛИМ]]"
 system: "[[Vplex]]"
 tags:
   - type/incident

@@ -1,6 +1,6 @@
 ---
 task: TASK1293342
-customer: "[[ИЛИМ]]"
+customer: "[[MOC - ИЛИМ]]"
 system: "[[EMC XtremIO]]"
 tags:
   - type/incident

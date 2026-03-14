@@ -6,7 +6,7 @@ source:
 related:
 area:
 up:
-  - "[[Kubernetes]]"
+  - "[[MOC - Kubernetes]]"
 ---
 pod - "обёртка" над контейнером.
 - обычно имеют 1-к-1 отношения с контейнерами

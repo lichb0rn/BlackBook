@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Golang]]"
+  - "[[MOC - Golang]]"
 related:
 aliases:
 tags:
@@ -21,7 +21,7 @@ github: https://github.com/lichb0rn/snippetbox
 
 
 ## 3. Key Decisions
-- Язык - [[Golang]]
+- Язык - [[MOC - Golang]]
 - Используются [[Go Template]]
 
 

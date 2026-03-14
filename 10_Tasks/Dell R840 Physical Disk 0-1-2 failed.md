@@ -1,6 +1,6 @@
 ---
 task: TASK1258939
-customer: "[[ИЛИМ]]"
+customer: "[[MOC - ИЛИМ]]"
 system: "[[Dell PowerEdge]]"
 tags:
   - type/incident

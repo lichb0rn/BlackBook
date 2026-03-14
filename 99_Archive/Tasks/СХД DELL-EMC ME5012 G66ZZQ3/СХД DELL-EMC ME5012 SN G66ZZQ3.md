@@ -1,6 +1,6 @@
 ---
 task: TASK1220136
-customer: "[[ИЛИМ]]"
+customer: "[[MOC - ИЛИМ]]"
 system: "[[PowerVault ME5]]"
 tags:
   - type/incident

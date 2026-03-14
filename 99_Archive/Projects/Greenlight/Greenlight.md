@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[10 Software Development]]"
+  - "[[MOC - Software Development]]"
 related:
-  - "[[Golang]]"
+  - "[[MOC - Golang]]"
 aliases:
 tags:
   - "#type/project"
