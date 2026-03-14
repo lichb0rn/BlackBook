@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[MOC - Index]]"
+  - "[[00 - Index]]"
 related:
 created: 2025-05-05
 tags:

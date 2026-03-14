@@ -1,4 +1,4 @@
-[[MOC - Index]]
+[[00 - Index]]
 
 [[Vault]]
 

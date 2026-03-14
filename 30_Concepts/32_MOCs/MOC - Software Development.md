@@ -1,7 +1,7 @@
 ---
 created: 2025-11-16 20:14
 up:
-  - "[[MOC - Index]]"
+  - "[[00 - Index]]"
 related:
 aliases:
   - Software Development
