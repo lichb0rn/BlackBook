@@ -6,7 +6,7 @@ tags:
   - type/incident
   - status/active
 created: 2026-03-13
-summary:
+summary: Перезагрузить контроллеры
 ---
 
 
