@@ -8,22 +8,15 @@ area:
 up:
   - "[[Контейнерная платформа Штурвал]]"
 ---
-# Обязательные записи DNS
 
-## Summary
-1–3 sentences capturing the **essence** of the idea in your own words.
+| Компонент  | Запись                                     | Комментарий                                                           |
+| ---------- | ------------------------------------------ | --------------------------------------------------------------------- |
+| API-server | api.<shturval_cluster_name>.<base_domain>. | А-запись для программного интерфейса приложений кластера управления   |
+| Ingress    | *.<shturval_cluster_name>.<base_domain>.   | Wildcard-запись для доступа к прикладным функциям кластера управления |
+| API-server | api.<client_cluster_name>.<base_domain>.   | А-запись для программного интерфейса приложений клиентского кластера  |
+| Ingress    | *.<client_cluster_name>.<base_domain>.     | Wildcard-запись для доступа к приложениям клиентского кластера        |
+|            |                                            |                                                                       |
 
-## Core idea
-- What this concept means.
-- Why it matters / where you’d use it.
-- Key consequences or implications.
-
-## Details
-- Important definitions or rules.
-- Key steps, patterns, or edge cases.
-- Short examples or code snippets if relevant.
-
-## Links and context
-
-## References
-
+– `<base_domain>` - DNS-зона организации
+– `<shturval_cluster_name>` - имя кластера управления
+– `<client_cluster_name>` - имя клиентского кластера
