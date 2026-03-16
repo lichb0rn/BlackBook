@@ -459,11 +459,6 @@
       "folder": true,
       "tag": false,
       "property": false
-    },
-    "20_Projects/Администрирование Штурвал/Администрирование Штурвал.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
     }
   },
   "fileIcons": {},
@@ -472,9 +467,7 @@
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {
-    "30_Concepts/32_MOCs": "title-asc"
-  },
+  "folderSortOverrides": {},
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
   "tagIcons": {},
