@@ -3,10 +3,15 @@ up:
 related:
 aliases:
 tags:
-  - type/moc
+  - type/vault
 summary: Vault Description
 ---
-- Work Sessions
+## Система заметок
+
+[[Insight Graph]]
+
+
+### Task & Project Notes
 
 - Child Notes
 	- любая заметка, у которой в `up` стоит текущий проект или таск

@@ -1,3 +1,7 @@
+---
+tags:
+  - type/vault
+---
 [[00 - Index]]
 
 [[Vault]]

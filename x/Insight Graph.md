@@ -5,7 +5,7 @@ source:
 ---
 # Insight Graph
 
-Insight Graph - 
+Insight Graph - система заметок, основанная на [Molecular Notes](https://reasonabledeviations.com/2022/04/18/molecular-notes-part-1/)
 
 ## Purpose
 
