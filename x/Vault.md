@@ -6,9 +6,10 @@ tags:
   - type/vault
 summary: Vault Description
 ---
-## Система заметок
+## Система заметок [[Insight Graph]]
 
-[[Insight Graph]]
+![[Insight Graph#Minimal Rules (TL;DR)]]
+
 
 
 ### Task & Project Notes

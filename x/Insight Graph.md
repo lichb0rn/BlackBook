@@ -85,6 +85,18 @@ Organization layer:
 
 Source → Note → Insight → MOC
 
-### Reference
+
+## Minimal Rules (TL;DR)
+
+1. One concept = one `#type/note`
+2. Your thoughts = `#type/insight`
+3. Always link notes
+4. Extract from sources `#type/source`, don’t store them
+5. Build understanding, not archives
+6. Group notes under `#type/moc`
+
+
+## Reference
+
 https://reasonabledeviations.com/2022/04/18/molecular-notes-part-1
 https://reasonabledeviations.com/2022/06/12/molecular-notes-part-2
