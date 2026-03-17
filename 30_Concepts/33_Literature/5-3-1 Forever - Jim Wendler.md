@@ -1,8 +1,12 @@
 ---
 author: "[[Jim Wendler]]"
-type: "[[Book]]"
-status:
-  - finished
+tags:
+  - type/source
+source:
+related:
+  - "[[Starting Strength]]"
+area:
+up:
 ---
 # Key Ideas
 - Тренировки разбиваются на циклы: Leader - Anchor

@@ -1,7 +1,7 @@
 ---
 created: 2026-03-16
 tags:
-  - type/note
+  - type/source
 source:
 related:
 area:
