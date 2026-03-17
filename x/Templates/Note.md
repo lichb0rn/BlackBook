@@ -1,5 +1,4 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - type/note
 source:
