@@ -36,8 +36,8 @@ summary:
 - [x] 31 - Lab Solution - ReplicaSets (optional).mp4
 - [x] 32 - Deployments.mp4
 - [x] 36 - Lab Solution - Deployments (optional).mp4
-- [ ] 37 - Services.mp4
-- [ ] 38 - Services Cluster IP.mp4
+- [x] 37 - Services.mp4
+- [x] 38 - Services Cluster IP.mp4
 - [ ] 39 - Services - Loadbalancer.mp4
 - [ ] 41 - Lab Solution - Services (optional).mp4
 - [ ] 42 - Namespaces.mp4
