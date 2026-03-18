@@ -8,6 +8,11 @@ tags:
 created: 2026-03-10
 summary:
 ---
+[[2026-03-18]]
+- Отправили новый диск
+- Major Express 2000443016, 005053152, Cерийный номер S400N9BL
+
+
 Старый диск
 Part Number 005053153, Serial Number X110A01FFQHG
 
