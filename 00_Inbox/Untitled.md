@@ -21,7 +21,7 @@ Keep the authoritative, complete component document in Component collection.
 Embed a subset of “display” fields (the ones you need to show the Device view/table) inside the Device document together with the component_id.
 Optionally also keep a task-local list of components (similar subset) if needed for other task-level screens.
 So your DeviceDoc could look like:
-```go
+```
 type DeviceDoc struct {
     ID           bson.ObjectID `bson:"_id"`
     TaskID       bson.ObjectID `bson:"task_id"`
