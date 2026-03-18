@@ -29,7 +29,7 @@ summary:
 - [x] 22 - Pods.mp4
 - [x] 23 - Pods with YAML.mp4
 - [x] 24 - Demo - Pods with YAML.mp4
-- [ ] 25 - Practice Test Introduction.mp4
+- [x] 25 - Practice Test Introduction.mp4
 - [ ] 26 - Demo - Accessing Labs.mp4
 - [ ] 28 - Lab Solution - Pods (optional).mp4
 - [ ] 29 - Recap - ReplicaSets.mp4
