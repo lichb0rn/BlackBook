@@ -32,8 +32,8 @@ summary:
 - [x] 25 - Practice Test Introduction.mp4
 - [x] 26 - Demo - Accessing Labs.mp4
 - [x] 28 - Lab Solution - Pods (optional).mp4
-- [ ] 29 - Recap - ReplicaSets.mp4
-- [ ] 31 - Lab Solution - ReplicaSets (optional).mp4
+- [x] 29 - Recap - ReplicaSets.mp4
+- [x] 31 - Lab Solution - ReplicaSets (optional).mp4
 - [ ] 32 - Deployments.mp4
 - [ ] 36 - Lab Solution - Deployments (optional).mp4
 - [ ] 37 - Services.mp4
