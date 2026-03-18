@@ -38,7 +38,7 @@ summary:
 - [x] 36 - Lab Solution - Deployments (optional).mp4
 - [x] 37 - Services.mp4
 - [x] 38 - Services Cluster IP.mp4
-- [ ] 39 - Services - Loadbalancer.mp4
+- [x] 39 - Services - Loadbalancer.mp4
 - [ ] 41 - Lab Solution - Services (optional).mp4
 - [ ] 42 - Namespaces.mp4
 - [ ] 44 - Lab Solution - Namespaces (optional).mp4
