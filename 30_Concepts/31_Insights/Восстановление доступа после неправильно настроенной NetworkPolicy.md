@@ -1,10 +1,11 @@
 ---
 tags:
-  - type/note
+  - type/insight
 source:
 related:
 area:
 up:
+  - "[[MOC - Kubernetes]]"
 ---
 В рамках курса [[Администрирование Штурвал]] я неправильно настроил Network Policy Cilium.
 В итоге пропал доступ к UI Штурвал.
