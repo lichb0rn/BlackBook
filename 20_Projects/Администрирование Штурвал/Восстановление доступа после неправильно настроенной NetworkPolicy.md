@@ -19,3 +19,7 @@ apache-np   True
 user@master41:~$ kubectl delete ccnp apache-np
 ciliumclusterwidenetworkpolicy.cilium.io "apache-np" deleted
 ```
+
+>[!Warning]
+>Предварительно нужно настроить работу [[kubectl]] по этой инструкции [[Настройка kubectl для работы с кластером]]
+
