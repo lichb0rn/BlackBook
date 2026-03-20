@@ -41,7 +41,7 @@ summary:
 - [x] 39 - Services - Loadbalancer.mp4
 - [x] 41 - Lab Solution - Services (optional).mp4
 - [x] 42 - Namespaces.mp4
-- [ ] 44 - Lab Solution - Namespaces (optional).mp4
+- [x] 44 - Lab Solution - Namespaces (optional).mp4
 - [ ] 45 - Imperative vs Declarative.mp4
 - [ ] 47 - Kubectl Explain Command.mp4
 - [ ] 49 - Lab Solution - Imperative Commands (optional).mp4
