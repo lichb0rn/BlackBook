@@ -4,7 +4,7 @@ customer: "[[Сбербанк Страхование]]"
 system: "[[Commvault]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-01-23
 summary:
 ---
