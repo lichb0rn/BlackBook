@@ -1,10 +1,10 @@
 ---
-task: TASK1258482
+task: TASK1258939
 customer: "[[MOC - ИЛИМ]]"
-system: "[[EMC Unity]]"
+system: "[[Dell PowerEdge]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-02-11
 summary: Ждём дату визита
 ---

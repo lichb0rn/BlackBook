@@ -1,21 +1,13 @@
 ---
-task: TASK1288066
+task: TASK1258482
 customer: "[[MOC - ИЛИМ]]"
-system: "[[EMC VNX]]"
+system: "[[EMC Unity]]"
 tags:
   - type/incident
-  - status/active
-created: 2026-03-04
-summary: Заменить диск на КЗ
+  - status/archived
+created: 2026-02-11
+summary: Ждём дату визита
 ---
-Старый диск: 005050550, 9XG7WVFR
-
-Новый диск: Major Express 1997975139
-Артикул
-005050550/005050606/005051644
-Серийный номер
-APM00145039914
-
 ## Logs
 ```dataview
 TASK
