@@ -1,13 +1,25 @@
 ---
-task: TASK1258482
+task: TASK1292721
 customer: "[[MOC - ИЛИМ]]"
 system: "[[EMC Unity]]"
 tags:
   - type/incident
-  - status/active
-created: 2026-02-11
-summary: Ждём дату визита
+  - status/archived
+created: 2026-03-10
+summary:
 ---
+[[2026-03-18]]
+- Отправили новый диск
+- Major Express 2000443016, 005053152, Cерийный номер S400N9BL
+
+
+Старый диск
+Part Number 005053153, Serial Number X110A01FFQHG
+
+Новый диск
+Major Express 1999014887
+Артикул 005053364,  Серийный номер 06G516KZ (DOA)
+
 ## Logs
 ```dataview
 TASK
