@@ -45,8 +45,8 @@ summary:
 - [x] 45 - Imperative vs Declarative.mp4
 - [x] 47 - Kubectl Explain Command.mp4
 - [x] 49 - Lab Solution - Imperative Commands (optional).mp4
-- [ ] 50 - Kubectl Apply Command.mp4
-- [ ] 52 - A Quick Reminder.mp4
+- [x] 50 - Kubectl Apply Command.mp4
+- [x] 52 - A Quick Reminder.mp4
 
 ### 3 - Scheduling
 - [ ] 54 - Scheduling - Section Introduction.mp4
