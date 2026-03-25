@@ -4,7 +4,7 @@ customer: "[[MOC - ИЛИМ]]"
 system: "[[EMC Unity]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-03-10
 summary:
 ---
