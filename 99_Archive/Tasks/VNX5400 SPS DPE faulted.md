@@ -4,7 +4,7 @@ customer: "[[MOC - ИЛИМ]]"
 system: "[[EMC VNX]]"
 tags:
   - type/incident
-  - status/active
+  - status/archived
 created: 2026-02-27
 summary: Заменить память и батарею
 ---
