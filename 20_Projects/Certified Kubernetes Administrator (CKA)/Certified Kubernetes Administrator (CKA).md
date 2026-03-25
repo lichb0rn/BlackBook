@@ -44,7 +44,7 @@ summary:
 - [x] 44 - Lab Solution - Namespaces (optional).mp4
 - [x] 45 - Imperative vs Declarative.mp4
 - [x] 47 - Kubectl Explain Command.mp4
-- [ ] 49 - Lab Solution - Imperative Commands (optional).mp4
+- [x] 49 - Lab Solution - Imperative Commands (optional).mp4
 - [ ] 50 - Kubectl Apply Command.mp4
 - [ ] 52 - A Quick Reminder.mp4
 
