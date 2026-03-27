@@ -51,7 +51,7 @@ summary:
 ### 3 - Scheduling
 - [x] 54 - Scheduling - Section Introduction.mp4
 - [x] 56 - Manual Scheduling.mp4
-- [ ] 58 - Lab Solution - Manual Scheduling (optional).mp4
+- [x] 58 - Lab Solution - Manual Scheduling (optional).mp4
 - [ ] 59 - Labels and Selectors.mp4
 - [ ] 61 - Lab Solution - Labels and Selectors - (Optional).mp4
 - [ ] 62 - Taints and Tolerations.mp4
