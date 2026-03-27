@@ -49,7 +49,7 @@ summary:
 - [x] 52 - A Quick Reminder.mp4
 
 ### 3 - Scheduling
-- [ ] 54 - Scheduling - Section Introduction.mp4
+- [x] 54 - Scheduling - Section Introduction.mp4
 - [ ] 56 - Manual Scheduling.mp4
 - [ ] 58 - Lab Solution - Manual Scheduling (optional).mp4
 - [ ] 59 - Labels and Selectors.mp4
