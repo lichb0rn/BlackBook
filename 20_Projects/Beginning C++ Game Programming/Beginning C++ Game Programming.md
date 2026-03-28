@@ -10,6 +10,9 @@ tags:
 created: 2026-03-28
 summary:
 ---
+## Links
+https://www.sfml-dev.org/tutorials/3.0/getting-started/macos/#create-your-first-sfml-program
+
 
 ## Tasks
 ```tasks
