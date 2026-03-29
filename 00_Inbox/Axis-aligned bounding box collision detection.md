@@ -21,7 +21,7 @@ if(objectA.getPosition().right > objectB.getPosition().left
             // objectA is intersecting objectB
             // on y axis as well-
 			// Collision detected 
-        }
+    }
 }
 ```
 
