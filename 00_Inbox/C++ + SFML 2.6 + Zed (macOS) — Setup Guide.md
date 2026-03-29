@@ -4,6 +4,7 @@
 - SFML 2.6 (через Homebrew)
  
 ---
+
 ## 1. Установка зависимостей
 
 ```bash
@@ -109,8 +110,6 @@ cmake --build build
 
 ## **6. Настройка Zed Tasks**
 
-  
-
 .zed/tasks.json:
 
 ```
@@ -145,8 +144,6 @@ cmake --build build
 ---
 
 ## **7. Настройки Zed (опционально)**
-
-  
 
 .zed/settings.json:
 
@@ -214,13 +211,9 @@ otool -L build/my_sfml_app
 ## **10. Важно понимать**
 
 - Используется **динамическая линковка (.dylib)**
-    
 - Библиотеки берутся из Homebrew
-    
 - Для разработки ничего дополнительно делать не нужно
-    
 - Для распространения потребуется .app bundle или настройка rpath
-    
 
 ---
 
@@ -251,24 +244,3 @@ cmake --build build --clean-first
 # verbose build
 cmake --build build --verbose
 ```
-
----
-
-## **Итог**
-
-  
-
-Стек:
-
-- Editor: Zed
-    
-- Build: CMake + Ninja
-    
-- Language Server: clangd (через compile_commands.json)
-    
-- Graphics: SFML 2.6 (Homebrew)
-    
-
-  
-
-Минимальная и стабильная конфигурация для разработки C++ на macOS.
