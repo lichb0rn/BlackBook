@@ -1,10 +1,20 @@
-Полное руководство по созданию нового проекта на C++ с использованием:
+---
+tags:
+  - type/note
+source:
+related:
+  - "[[Game Development]]"
+  - "[[SFML]]"
+area:
+up:
+  - "[[MOC - C++ Language]]"
+---
+Полное руководство по созданию нового проекта на [[MOC - C++ Language|C++]] с использованием:
 - Zed editor
 - CMake + Ninja
 - SFML 2.6 (через Homebrew)
  
 ---
-
 ## 1. Установка зависимостей
 
 ```bash

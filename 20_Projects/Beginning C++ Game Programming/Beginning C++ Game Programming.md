@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[C++ Language]]"
+  - "[[MOC - C++ Language]]"
 related:
   - "[[Game Development]]"
 aliases:

@@ -6,7 +6,7 @@ related:
   - "[[Game Development]]"
 area:
 up:
-  - "[[C++ Language]]"
+  - "[[MOC - C++ Language]]"
 ---
 ## The Game Loop
 
