@@ -24,9 +24,9 @@ summary:
 - [x] 3. A simplified way to look at layers and what you can do with them.mp4
 - [x] 4. Shapes in your artwork.mp4
 - [x] 5. Value and contrast.mp4
-- [ ] 6. Learning color theory.mp4
+- [x] 6. Learning color theory.mp4
 - [ ] 7. Finding inspiration and reference for your pixel art game.mp4
-- [ ] 8. Pixel game art creation quiz.html
+- [x] 8. Pixel game art creation quiz.html
 
 ## 3. Creating props and animating them
 - [ ] 1. Building a wood crate from scratch!.mp4
