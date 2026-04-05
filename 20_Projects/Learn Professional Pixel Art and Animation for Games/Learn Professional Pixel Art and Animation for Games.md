@@ -15,14 +15,14 @@ summary:
 - [x] 2. How to get a guaranteed win out of this course.mp4
 - [x] 3. What is Pixel art.mp4
 - [x] 4. Anti-aliasing examples.html
-- [ ] 5. What will you need for this course.mp4
+- [x] 5. What will you need for this course.mp4
 - [x] 6. Free Photoshop download page.html
 
 ## 2. Getting started
-- [ ] 1. Learning the basics of Photoshop for creating pixel art.mp4
-- [ ] 2. Making your workflow faster with hotkeys!.mp4
-- [ ] 3. A simplified way to look at layers and what you can do with them.mp4
-- [ ] 4. Shapes in your artwork.mp4
+- [x] 1. Learning the basics of Photoshop for creating pixel art.mp4
+- [x] 2. Making your workflow faster with hotkeys!.mp4
+- [x] 3. A simplified way to look at layers and what you can do with them.mp4
+- [x] 4. Shapes in your artwork.mp4
 - [ ] 5. Value and contrast.mp4
 - [ ] 6. Learning color theory.mp4
 - [ ] 7. Finding inspiration and reference for your pixel art game.mp4
